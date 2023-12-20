@@ -1,0 +1,2701 @@
+,avg_price_dif,features
+1544,30.7627,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'view' 'yr_built']
+1790,30.8935,['bedrooms' 'sqft_living' 'floors' 'view' 'condition' 'yr_built']
+1776,30.9059,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'yr_built']
+1726,30.9078,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'yr_built']
+1797,30.9753,['bedrooms' 'sqft_living' 'floors' 'view' 'yr_built' 'yr_renovated']
+1939,30.9784,['bedrooms' 'floors' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+872,30.9815,['bedrooms' 'sqft_living' 'floors' 'view' 'yr_built']
+1795,30.993,['bedrooms' 'sqft_living' 'floors' 'view' 'sqft_basement' 'yr_built']
+1793,30.9953,['bedrooms' 'sqft_living' 'floors' 'view' 'sqft_above' 'yr_built']
+1539,31.0161,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'waterfront' 'yr_built']
+1708,31.0849,['bedrooms' 'bathrooms' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1576,31.0986,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'sqft_above' 'yr_built']
+1578,31.1017,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'sqft_basement' 'yr_built']
+1523,31.102,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'view' 'yr_built']
+1559,31.1128,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'view' 'yr_built']
+1548,31.1258,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'condition' 'yr_built']
+1512,31.155,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'yr_built']
+1573,31.1723,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'condition' 'yr_built']
+1580,31.1877,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'yr_built' 'yr_renovated']
+1678,31.1908,['bedrooms' 'bathrooms' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+1780,31.1955,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'condition' 'yr_built']
+1721,31.1962,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'yr_built']
+739,31.1977,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'yr_built']
+1553,31.2054,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'sqft_basement' 'yr_built']
+1551,31.2071,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'sqft_above' 'yr_built']
+1555,31.2105,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'yr_built' 'yr_renovated']
+728,31.2106,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'yr_built']
+1929,31.2356,['bedrooms' 'floors' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+1785,31.2495,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+1783,31.2527,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+2028,31.2535,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'yr_built']
+1787,31.2787,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+867,31.2856,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'yr_built']
+2042,31.2883,['bathrooms' 'sqft_living' 'floors' 'view' 'condition' 'yr_built']
+1518,31.2974,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'yr_built']
+1978,31.2983,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'yr_built']
+2224,31.3039,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'view' 'yr_built']
+1730,31.3056,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition' 'yr_built']
+2293,31.306,['sqft_living' 'floors' 'waterfront' 'view' 'condition' 'yr_built']
+2049,31.3227,['bathrooms' 'sqft_living' 'floors' 'view' 'yr_built' 'yr_renovated']
+1082,31.3235,['bathrooms' 'sqft_living' 'floors' 'view' 'yr_built']
+2191,31.3307,['bathrooms' 'floors' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+2238,31.3324,['sqft_living' 'sqft_lot' 'floors' 'view' 'condition' 'yr_built']
+1698,31.3325,"['bedrooms' 'bathrooms' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+2047,31.343,['bathrooms' 'sqft_living' 'floors' 'view' 'sqft_basement' 'yr_built']
+1943,31.343,['bedrooms' 'floors' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2045,31.3432,['bathrooms' 'sqft_living' 'floors' 'view' 'sqft_above' 'yr_built']
+2300,31.3436,['sqft_living' 'floors' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+1314,31.3466,['sqft_living' 'floors' 'waterfront' 'view' 'yr_built']
+1566,31.3482,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'sqft_above' 'yr_built']
+1568,31.3502,"['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'sqft_basement'
+ 'yr_built']"
+1801,31.357,['bedrooms' 'sqft_living' 'floors' 'condition' 'sqft_basement' 'yr_built']
+2409,31.3572,['floors' 'waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1799,31.3599,['bedrooms' 'sqft_living' 'floors' 'condition' 'sqft_above' 'yr_built']
+1874,31.3671,['bedrooms' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+1328,31.3699,['sqft_living' 'floors' 'view' 'condition' 'yr_built']
+2298,31.3701,['sqft_living' 'floors' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+2296,31.3717,['sqft_living' 'floors' 'waterfront' 'view' 'sqft_above' 'yr_built']
+2316,31.372,['sqft_living' 'floors' 'view' 'condition' 'yr_built' 'yr_renovated']
+2245,31.3737,['sqft_living' 'sqft_lot' 'floors' 'view' 'yr_built' 'yr_renovated']
+1563,31.374,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'condition' 'yr_built']
+1264,31.3765,['sqft_living' 'sqft_lot' 'floors' 'view' 'yr_built']
+1735,31.3801,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built']
+1733,31.3832,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'yr_built']
+1570,31.3869,"['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'yr_built'
+ 'yr_renovated']"
+2418,31.3882,['floors' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+876,31.391,['bedrooms' 'sqft_living' 'floors' 'condition' 'yr_built']
+734,31.3923,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'yr_built']
+2373,31.3936,['sqft_lot' 'floors' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1803,31.3947,['bedrooms' 'sqft_living' 'floors' 'condition' 'yr_built' 'yr_renovated']
+1737,31.401,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'yr_built' 'yr_renovated']
+2314,31.4011,['sqft_living' 'floors' 'view' 'condition' 'sqft_basement' 'yr_built']
+2312,31.4024,['sqft_living' 'floors' 'view' 'condition' 'sqft_above' 'yr_built']
+2243,31.4071,['sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_built']
+2241,31.4079,['sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_above' 'yr_built']
+840,31.4082,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'yr_built']
+1335,31.4128,['sqft_living' 'floors' 'view' 'yr_built' 'yr_renovated']
+542,31.4149,['sqft_living' 'floors' 'view' 'yr_built']
+1643,31.4197,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built']
+2317,31.4231,['sqft_living' 'floors' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1947,31.4237,"['bedrooms' 'floors' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2422,31.4257,['floors' 'view' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+1477,31.4258,['floors' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1804,31.4277,['bedrooms' 'sqft_living' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+1006,31.4281,['bedrooms' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+1904,31.4304,['bedrooms' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1530,31.4362,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'yr_built']
+1807,31.4366,"['bedrooms' 'sqft_living' 'floors' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1532,31.4385,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'sqft_basement'
+ 'yr_built']"
+1333,31.4387,['sqft_living' 'floors' 'view' 'sqft_basement' 'yr_built']
+2320,31.4388,['sqft_living' 'floors' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+1806,31.4398,['bedrooms' 'sqft_living' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+2319,31.4401,['sqft_living' 'floors' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1331,31.4402,['sqft_living' 'floors' 'view' 'sqft_above' 'yr_built']
+881,31.4412,['bedrooms' 'sqft_living' 'floors' 'sqft_basement' 'yr_built']
+1741,31.4419,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'yr_built']
+879,31.4444,['bedrooms' 'sqft_living' 'floors' 'sqft_above' 'yr_built']
+1758,31.4474,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above' 'yr_built']
+1760,31.4502,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_basement' 'yr_built']
+1527,31.4582,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'yr_built']
+1755,31.4682,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'condition' 'yr_built']
+1534,31.4772,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'yr_built' 'yr_renovated']
+1712,31.4815,"['bedrooms' 'bathrooms' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+721,31.483,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'yr_built']
+883,31.4878,['bedrooms' 'sqft_living' 'floors' 'yr_built' 'yr_renovated']
+278,31.4935,['bedrooms' 'sqft_living' 'floors' 'yr_built']
+1582,31.4972,['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'sqft_above' 'yr_built']
+1584,31.4994,"['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'sqft_basement'
+ 'yr_built']"
+1762,31.502,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'yr_built' 'yr_renovated']
+1954,31.5052,['bedrooms' 'waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1716,31.5196,"['bedrooms' 'bathrooms' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+851,31.5215,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'yr_built']
+1813,31.5224,['bedrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above' 'yr_built']
+1587,31.5227,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+831,31.5235,['bedrooms' 'bathrooms' 'sqft_above' 'sqft_basement' 'yr_built']
+1815,31.5245,['bedrooms' 'sqft_living' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1963,31.5329,['bedrooms' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+1589,31.5358,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1810,31.5372,['bedrooms' 'sqft_living' 'waterfront' 'view' 'condition' 'yr_built']
+1590,31.5378,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+746,31.5397,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_above' 'yr_built']
+748,31.5417,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_basement' 'yr_built']
+1817,31.5455,['bedrooms' 'sqft_living' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+1829,31.5494,['bedrooms' 'sqft_living' 'view' 'condition' 'sqft_above' 'yr_built']
+1831,31.5519,['bedrooms' 'sqft_living' 'view' 'condition' 'sqft_basement' 'yr_built']
+743,31.5522,['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'yr_built']
+1967,31.5551,['bedrooms' 'view' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+887,31.5642,['bedrooms' 'sqft_living' 'waterfront' 'view' 'yr_built']
+1586,31.5689,"['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'yr_built'
+ 'yr_renovated']"
+750,31.5702,['bedrooms' 'bathrooms' 'sqft_living' 'yr_built' 'yr_renovated']
+1836,31.572,['bedrooms' 'sqft_living' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1837,31.5739,['bedrooms' 'sqft_living' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+227,31.5745,['bedrooms' 'bathrooms' 'sqft_living' 'yr_built']
+1834,31.5779,['bedrooms' 'sqft_living' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1036,31.5804,['bedrooms' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+904,31.5974,['bedrooms' 'sqft_living' 'view' 'sqft_above' 'yr_built']
+906,31.5995,['bedrooms' 'sqft_living' 'view' 'sqft_basement' 'yr_built']
+1833,31.6084,['bedrooms' 'sqft_living' 'view' 'condition' 'yr_built' 'yr_renovated']
+901,31.6093,['bedrooms' 'sqft_living' 'view' 'condition' 'yr_built']
+1973,31.6124,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'yr_built']
+2032,31.6133,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'condition' 'yr_built']
+2156,31.6188,['bathrooms' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+908,31.6222,['bedrooms' 'sqft_living' 'view' 'yr_built' 'yr_renovated']
+2206,31.6294,['bathrooms' 'waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+2010,31.63,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above' 'yr_built']
+2012,31.6344,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_basement' 'yr_built']
+2065,31.6405,['bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above' 'yr_built']
+289,31.6411,['bedrooms' 'sqft_living' 'view' 'yr_built']
+2181,31.6439,['bathrooms' 'floors' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+2067,31.6446,['bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1077,31.6469,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'yr_built']
+2039,31.6471,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+2037,31.657,"['bathrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_basement'
+ 'yr_built']"
+2035,31.6582,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+2228,31.6843,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'condition' 'yr_built']
+2086,31.6881,['bathrooms' 'sqft_living' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+2219,31.6894,['bathrooms' 'view' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+2215,31.6929,['bathrooms' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+1246,31.6945,['bathrooms' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+2088,31.7005,['bathrooms' 'sqft_living' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+2081,31.7038,['bathrooms' 'sqft_living' 'view' 'condition' 'sqft_above' 'yr_built']
+2089,31.7048,"['bathrooms' 'sqft_living' 'view' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1114,31.7056,['bathrooms' 'sqft_living' 'view' 'sqft_above' 'yr_built']
+2363,31.7059,['sqft_lot' 'floors' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+2083,31.7081,['bathrooms' 'sqft_living' 'view' 'condition' 'sqft_basement' 'yr_built']
+1116,31.7098,['bathrooms' 'sqft_living' 'view' 'sqft_basement' 'yr_built']
+1259,31.7139,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'yr_built']
+2235,31.7146,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+1993,31.7154,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'yr_built']
+2233,31.7203,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+2231,31.7219,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+1894,31.7279,"['bedrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+2413,31.7319,['floors' 'waterfront' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2306,31.7342,['sqft_living' 'floors' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+1745,31.7408,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition' 'yr_built']
+1318,31.7419,['sqft_living' 'floors' 'waterfront' 'condition' 'yr_built']
+2304,31.7454,"['sqft_living' 'floors' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_built']"
+1748,31.747,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built']
+2302,31.7476,['sqft_living' 'floors' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+1750,31.7483,"['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement'
+ 'yr_built']"
+1752,31.7495,"['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'yr_built'
+ 'yr_renovated']"
+2307,31.7496,"['sqft_living' 'floors' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1467,31.7507,['floors' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+2417,31.7527,"['floors' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1323,31.7647,['sqft_living' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+846,31.7658,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'yr_built']
+1321,31.7667,['sqft_living' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+2310,31.7668,"['sqft_living' 'floors' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2309,31.7689,"['sqft_living' 'floors' 'waterfront' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+537,31.7708,['sqft_living' 'floors' 'waterfront' 'yr_built']
+1325,31.7727,['sqft_living' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+2069,31.7802,['bathrooms' 'sqft_living' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+1097,31.7808,['bathrooms' 'sqft_living' 'waterfront' 'view' 'yr_built']
+1982,31.7934,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition' 'yr_built']
+2014,31.7958,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'yr_built' 'yr_renovated']
+1061,31.7962,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'yr_built']
+2062,31.7983,['bathrooms' 'sqft_living' 'waterfront' 'view' 'condition' 'yr_built']
+2007,31.8101,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'condition' 'yr_built']
+2195,31.8197,['bathrooms' 'floors' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2055,31.8233,['bathrooms' 'sqft_living' 'floors' 'condition' 'yr_built' 'yr_renovated']
+2388,31.8242,['sqft_lot' 'waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1086,31.8277,['bathrooms' 'sqft_living' 'floors' 'condition' 'yr_built']
+2126,31.8278,['bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+2053,31.8335,['bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_basement' 'yr_built']
+2051,31.8342,['bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_above' 'yr_built']
+1989,31.8343,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'yr_built' 'yr_renovated']
+1050,31.8346,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'yr_built']
+2261,31.8386,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_built']
+1987,31.8418,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built']
+2263,31.8422,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1985,31.8426,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'yr_built']
+2056,31.8533,"['bathrooms' 'sqft_living' 'floors' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+2199,31.8547,"['bathrooms' 'floors' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1216,31.855,['bathrooms' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+1958,31.8561,"['bedrooms' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1118,31.8617,['bathrooms' 'sqft_living' 'view' 'yr_built' 'yr_renovated']
+409,31.8625,['bathrooms' 'sqft_living' 'view' 'yr_built']
+2397,31.864,['sqft_lot' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+1093,31.8651,['bathrooms' 'sqft_living' 'floors' 'yr_built' 'yr_renovated']
+398,31.8654,['bathrooms' 'sqft_living' 'floors' 'yr_built']
+2059,31.8683,"['bathrooms' 'sqft_living' 'floors' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1091,31.8685,['bathrooms' 'sqft_living' 'floors' 'sqft_basement' 'yr_built']
+2058,31.8694,['bathrooms' 'sqft_living' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+1089,31.8697,['bathrooms' 'sqft_living' 'floors' 'sqft_above' 'yr_built']
+1962,31.8703,"['bedrooms' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1819,31.8746,['bedrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+1821,31.8761,"['bedrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_built']"
+2277,31.8777,['sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_above' 'yr_built']
+1111,31.8778,['bathrooms' 'sqft_living' 'view' 'condition' 'yr_built']
+2085,31.8781,['bathrooms' 'sqft_living' 'view' 'condition' 'yr_built' 'yr_renovated']
+2401,31.8788,['sqft_lot' 'view' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+2279,31.8819,['sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_basement' 'yr_built']
+1824,31.8844,"['bedrooms' 'sqft_living' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1026,31.8852,['bedrooms' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+2282,31.887,['sqft_living' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+1826,31.8891,"['bedrooms' 'sqft_living' 'waterfront' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1827,31.8904,"['bedrooms' 'sqft_living' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1908,31.8919,['bedrooms' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+1442,31.892,['sqft_lot' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+891,31.8921,['bedrooms' 'sqft_living' 'waterfront' 'condition' 'yr_built']
+1723,31.8921,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'condition']
+2284,31.8929,['sqft_living' 'sqft_lot' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1823,31.8948,"['bedrooms' 'sqft_living' 'waterfront' 'condition' 'yr_built'
+ 'yr_renovated']"
+2285,31.8968,['sqft_living' 'sqft_lot' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+2377,31.8991,['sqft_lot' 'floors' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2251,31.9013,['sqft_living' 'sqft_lot' 'floors' 'condition' 'yr_built' 'yr_renovated']
+898,31.9033,['bedrooms' 'sqft_living' 'waterfront' 'yr_built' 'yr_renovated']
+894,31.9042,['bedrooms' 'sqft_living' 'waterfront' 'sqft_above' 'yr_built']
+896,31.9054,['bedrooms' 'sqft_living' 'waterfront' 'sqft_basement' 'yr_built']
+1296,31.9062,['sqft_living' 'sqft_lot' 'view' 'sqft_above' 'yr_built']
+1268,31.9071,['sqft_living' 'sqft_lot' 'floors' 'condition' 'yr_built']
+1791,31.9078,['bedrooms' 'sqft_living' 'floors' 'view' 'condition' 'yr_renovated']
+1912,31.909,"['bedrooms' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1298,31.9098,['sqft_living' 'sqft_lot' 'view' 'sqft_basement' 'yr_built']
+1764,31.9113,['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above' 'yr_built']
+1766,31.9125,"['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_basement'
+ 'yr_built']"
+2249,31.9136,['sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_basement' 'yr_built']
+2247,31.9152,['sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_built']
+284,31.9182,['bedrooms' 'sqft_living' 'waterfront' 'yr_built']
+2424,31.9194,['waterfront' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2428,31.9286,"['waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1771,31.9286,"['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1772,31.9293,"['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+971,31.9298,['bedrooms' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built']
+1769,31.9303,"['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+2423,31.9324,"['floors' 'condition' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2252,31.9327,['sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+1412,31.9332,['sqft_lot' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+2327,31.9332,['sqft_living' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_built']
+2381,31.9332,"['sqft_lot' 'floors' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+855,31.9333,['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'yr_built']
+2329,31.9368,['sqft_living' 'waterfront' 'view' 'condition' 'sqft_basement' 'yr_built']
+2321,31.9374,"['sqft_living' 'floors' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1768,31.9383,['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'yr_built' 'yr_renovated']
+1481,31.9384,['floors' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2332,31.9422,['sqft_living' 'waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+2334,31.9428,['sqft_living' 'waterfront' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+862,31.9435,['bedrooms' 'sqft_living' 'sqft_lot' 'yr_built' 'yr_renovated']
+2335,31.9462,"['sqft_living' 'waterfront' 'view' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2324,31.9464,"['sqft_living' 'floors' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1492,31.9474,['waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+2255,31.9478,"['sqft_living' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1273,31.9478,['sqft_living' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built']
+2323,31.9485,['sqft_living' 'floors' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+1275,31.9486,['sqft_living' 'sqft_lot' 'floors' 'yr_built' 'yr_renovated']
+510,31.9489,['sqft_living' 'sqft_lot' 'floors' 'yr_built']
+858,31.9496,['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'yr_built']
+2254,31.9497,['sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+1271,31.9497,['sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'yr_built']
+860,31.9506,['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_basement' 'yr_built']
+2258,31.9519,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'condition' 'yr_built']
+1339,31.9523,['sqft_living' 'floors' 'condition' 'sqft_basement' 'yr_built']
+1773,31.953,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'condition']
+1341,31.9532,['sqft_living' 'floors' 'condition' 'yr_built' 'yr_renovated']
+1337,31.9544,['sqft_living' 'floors' 'condition' 'sqft_above' 'yr_built']
+2265,31.957,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+546,31.9595,['sqft_living' 'floors' 'condition' 'yr_built']
+1351,31.9618,['sqft_living' 'waterfront' 'view' 'sqft_above' 'yr_built']
+271,31.9626,['bedrooms' 'sqft_living' 'sqft_lot' 'yr_built']
+1353,31.9648,['sqft_living' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1279,31.9657,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'yr_built']
+2146,31.9701,"['bathrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1342,31.9712,['sqft_living' 'floors' 'sqft_above' 'sqft_basement' 'yr_built']
+676,31.9718,['floors' 'sqft_above' 'sqft_basement' 'yr_built']
+2325,31.9721,"['sqft_living' 'floors' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1485,31.9726,['floors' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+2341,31.9757,['sqft_living' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+1933,31.9798,['bedrooms' 'floors' 'view' 'condition' 'sqft_above' 'sqft_basement']
+2430,31.981,['view' 'condition' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+1501,31.9815,['view' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2000,31.9835,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built']
+551,31.9864,['sqft_living' 'floors' 'sqft_basement' 'yr_built']
+2002,31.9867,"['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement'
+ 'yr_built']"
+1345,31.9872,['sqft_living' 'floors' 'sqft_basement' 'yr_built' 'yr_renovated']
+549,31.9883,['sqft_living' 'floors' 'sqft_above' 'yr_built']
+2345,31.9887,"['sqft_living' 'view' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1344,31.9892,['sqft_living' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+1789,31.9926,['bedrooms' 'sqft_living' 'floors' 'view' 'condition' 'sqft_basement']
+1505,31.9939,['view' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+1541,31.9943,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'view' 'condition']
+2343,31.9946,['sqft_living' 'view' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+1788,31.9949,['bedrooms' 'sqft_living' 'floors' 'view' 'condition' 'sqft_above']
+1367,31.9952,['sqft_living' 'view' 'condition' 'sqft_above' 'yr_built']
+1520,31.9953,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'view' 'condition']
+1738,31.9954,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'condition']
+2344,31.9981,"['sqft_living' 'view' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1369,31.9988,['sqft_living' 'view' 'condition' 'sqft_basement' 'yr_built']
+113,32.0004,['sqft_living' 'floors' 'yr_built']
+553,32.0012,['sqft_living' 'floors' 'yr_built' 'yr_renovated']
+1372,32.0065,['sqft_living' 'view' 'sqft_above' 'sqft_basement' 'yr_built']
+869,32.0068,['bedrooms' 'sqft_living' 'floors' 'view' 'condition']
+1374,32.008,['sqft_living' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1375,32.0114,['sqft_living' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+706,32.0119,['view' 'sqft_above' 'sqft_basement' 'yr_built']
+2281,32.0221,['sqft_living' 'sqft_lot' 'view' 'condition' 'yr_built' 'yr_renovated']
+1293,32.0235,['sqft_living' 'sqft_lot' 'view' 'condition' 'yr_built']
+574,32.0261,['sqft_living' 'view' 'sqft_above' 'yr_built']
+576,32.0293,['sqft_living' 'view' 'sqft_basement' 'yr_built']
+1300,32.0294,['sqft_living' 'sqft_lot' 'view' 'yr_built' 'yr_renovated']
+1898,32.0359,['bedrooms' 'sqft_lot' 'view' 'condition' 'sqft_above' 'sqft_basement']
+2076,32.0382,"['bathrooms' 'sqft_living' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+521,32.0389,['sqft_living' 'sqft_lot' 'view' 'yr_built']
+2214,32.0394,"['bathrooms' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1236,32.0429,['bathrooms' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+2331,32.0457,['sqft_living' 'waterfront' 'view' 'condition' 'yr_built' 'yr_renovated']
+1348,32.0474,['sqft_living' 'waterfront' 'view' 'condition' 'yr_built']
+2210,32.0487,"['bathrooms' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1355,32.0499,['sqft_living' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+2078,32.0524,"['bathrooms' 'sqft_living' 'waterfront' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1838,32.0527,"['bedrooms' 'sqft_living' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1753,32.0528,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_above']
+1040,32.0532,['bedrooms' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+1754,32.0532,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_basement']
+2079,32.0555,"['bathrooms' 'sqft_living' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1104,32.0559,['bathrooms' 'sqft_living' 'waterfront' 'sqft_above' 'yr_built']
+848,32.0563,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'condition']
+1106,32.059,['bathrooms' 'sqft_living' 'waterfront' 'sqft_basement' 'yr_built']
+1968,32.059,"['bedrooms' 'condition' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+557,32.0601,['sqft_living' 'waterfront' 'view' 'yr_built']
+2071,32.0613,"['bathrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_above'
+ 'yr_built']"
+1756,32.0613,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'condition' 'yr_renovated']
+2073,32.0643,"['bathrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_built']"
+2004,32.067,"['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'yr_built'
+ 'yr_renovated']"
+1044,32.0686,['bedrooms' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+1842,32.0687,"['bedrooms' 'sqft_living' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1056,32.0719,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'yr_built']
+910,32.0723,['bedrooms' 'sqft_living' 'condition' 'sqft_above' 'yr_built']
+912,32.0734,['bedrooms' 'sqft_living' 'condition' 'sqft_basement' 'yr_built']
+1840,32.0778,"['bedrooms' 'sqft_living' 'condition' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1841,32.0785,"['bedrooms' 'sqft_living' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1556,32.0791,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'view' 'condition']
+293,32.0833,['bedrooms' 'sqft_living' 'condition' 'yr_built']
+915,32.0854,['bedrooms' 'sqft_living' 'sqft_above' 'sqft_basement' 'yr_built']
+381,32.0854,['bedrooms' 'sqft_above' 'sqft_basement' 'yr_built']
+914,32.0865,['bedrooms' 'sqft_living' 'condition' 'yr_built' 'yr_renovated']
+917,32.0882,['bedrooms' 'sqft_living' 'sqft_above' 'yr_built' 'yr_renovated']
+1997,32.0883,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition' 'yr_built']
+918,32.0891,['bedrooms' 'sqft_living' 'sqft_basement' 'yr_built' 'yr_renovated']
+1574,32.0911,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'condition' 'yr_renovated']
+300,32.0977,['bedrooms' 'sqft_living' 'yr_built' 'yr_renovated']
+296,32.1052,['bedrooms' 'sqft_living' 'sqft_above' 'yr_built']
+298,32.1061,['bedrooms' 'sqft_living' 'sqft_basement' 'yr_built']
+17,32.1124,['bedrooms' 'sqft_living' 'yr_built']
+1371,32.1135,['sqft_living' 'view' 'condition' 'yr_built' 'yr_renovated']
+571,32.1154,['sqft_living' 'view' 'condition' 'yr_built']
+578,32.1182,['sqft_living' 'view' 'yr_built' 'yr_renovated']
+1702,32.1191,['bedrooms' 'bathrooms' 'view' 'condition' 'sqft_above' 'sqft_basement']
+124,32.1282,['sqft_living' 'view' 'yr_built']
+1108,32.1297,['bathrooms' 'sqft_living' 'waterfront' 'yr_built' 'yr_renovated']
+404,32.1331,['bathrooms' 'sqft_living' 'waterfront' 'yr_built']
+736,32.1352,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'condition']
+1571,32.1352,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'condition' 'sqft_above']
+1572,32.1355,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'condition' 'sqft_basement']
+1948,32.1413,['bedrooms' 'waterfront' 'view' 'condition' 'sqft_above' 'sqft_basement']
+1101,32.1474,['bathrooms' 'sqft_living' 'waterfront' 'condition' 'yr_built']
+2075,32.1504,"['bathrooms' 'sqft_living' 'waterfront' 'condition' 'yr_built'
+ 'yr_renovated']"
+1811,32.1512,['bedrooms' 'sqft_living' 'waterfront' 'view' 'condition' 'yr_renovated']
+884,32.1582,['bedrooms' 'sqft_living' 'waterfront' 'view' 'condition']
+1808,32.1589,['bedrooms' 'sqft_living' 'waterfront' 'view' 'condition' 'sqft_above']
+1809,32.1591,['bedrooms' 'sqft_living' 'waterfront' 'view' 'condition' 'sqft_basement']
+2160,32.1931,"['bathrooms' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1964,32.1966,['bedrooms' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2164,32.1968,"['bathrooms' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2021,32.1969,"['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1030,32.1985,['bedrooms' 'view' 'condition' 'sqft_above' 'sqft_basement']
+1828,32.1989,['bedrooms' 'sqft_living' 'view' 'condition' 'sqft_above' 'sqft_basement']
+1181,32.2007,['bathrooms' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built']
+2016,32.2064,['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above' 'yr_built']
+2018,32.2097,"['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_basement'
+ 'yr_built']"
+2023,32.2107,"['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+902,32.2128,['bedrooms' 'sqft_living' 'view' 'condition' 'yr_renovated']
+1830,32.2131,['bedrooms' 'sqft_living' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1832,32.2134,"['bedrooms' 'sqft_living' 'view' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+2024,32.2138,"['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1068,32.2145,['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'yr_built']
+286,32.2154,['bedrooms' 'sqft_living' 'view' 'condition']
+899,32.2161,['bedrooms' 'sqft_living' 'view' 'condition' 'sqft_above']
+900,32.2164,['bedrooms' 'sqft_living' 'view' 'condition' 'sqft_basement']
+1070,32.2177,['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_basement' 'yr_built']
+1514,32.2191,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view']
+1717,32.2228,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'view']
+1882,32.2429,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1742,32.2479,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'yr_renovated']
+1740,32.258,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_basement']
+842,32.2581,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view']
+1739,32.2582,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_above']
+1727,32.2634,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'yr_renovated']
+1862,32.265,['bedrooms' 'sqft_lot' 'floors' 'view' 'sqft_above' 'sqft_basement']
+2090,32.2652,"['bathrooms' 'sqft_living' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1703,32.2664,['bedrooms' 'bathrooms' 'view' 'condition' 'sqft_above' 'yr_built']
+2094,32.2665,"['bathrooms' 'sqft_living' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2392,32.2673,"['sqft_lot' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1524,32.2696,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'view' 'yr_renovated']
+1125,32.2697,['bathrooms' 'sqft_living' 'sqft_above' 'sqft_basement' 'yr_built']
+1250,32.2698,['bathrooms' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+1254,32.2707,['bathrooms' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+2396,32.2718,"['sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2220,32.2721,"['bathrooms' 'condition' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+501,32.2739,['bathrooms' 'sqft_above' 'sqft_basement' 'yr_built']
+1725,32.2766,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_basement']
+2272,32.2769,"['sqft_living' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+1724,32.2787,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_above']
+1432,32.2801,['sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+1631,32.281,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement']
+1120,32.2829,['bathrooms' 'sqft_living' 'condition' 'sqft_above' 'yr_built']
+2267,32.2831,['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+1127,32.2843,['bathrooms' 'sqft_living' 'sqft_above' 'yr_built' 'yr_renovated']
+2092,32.285,"['bathrooms' 'sqft_living' 'condition' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1122,32.2858,['bathrooms' 'sqft_living' 'condition' 'sqft_basement' 'yr_built']
+2269,32.2858,"['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_built']"
+1128,32.2869,['bathrooms' 'sqft_living' 'sqft_basement' 'yr_built' 'yr_renovated']
+1508,32.2869,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'view']
+416,32.2876,['bathrooms' 'sqft_living' 'sqft_above' 'yr_built']
+2274,32.2879,"['sqft_living' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+2093,32.2879,"['bathrooms' 'sqft_living' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1917,32.2893,['bedrooms' 'floors' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+418,32.2901,['bathrooms' 'sqft_living' 'sqft_basement' 'yr_built']
+2275,32.2904,"['sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2239,32.2933,['sqft_living' 'sqft_lot' 'floors' 'view' 'condition' 'yr_renovated']
+1522,32.295,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_basement']
+1521,32.2952,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above']
+717,32.2956,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'view']
+1072,32.2961,['bathrooms' 'sqft_living' 'sqft_lot' 'yr_built' 'yr_renovated']
+1286,32.2963,['sqft_living' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built']
+2294,32.2966,['sqft_living' 'floors' 'waterfront' 'view' 'condition' 'yr_renovated']
+836,32.2985,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'view']
+1288,32.2987,['sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_built']
+1777,32.3001,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'yr_renovated']
+1775,32.3005,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'sqft_basement']
+391,32.3009,['bathrooms' 'sqft_living' 'sqft_lot' 'yr_built']
+1774,32.3032,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'sqft_above']
+1065,32.3107,['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'yr_built']
+1905,32.3128,['bedrooms' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2020,32.3141,"['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'yr_built'
+ 'yr_renovated']"
+1940,32.3146,['bedrooms' 'floors' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1757,32.3184,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement']
+959,32.3193,['bedrooms' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement']
+1560,32.3255,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'view' 'yr_renovated']
+1796,32.3262,['bedrooms' 'sqft_living' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+1761,32.3283,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_basement' 'yr_renovated']
+2221,32.3284,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'view' 'condition']
+1759,32.3285,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above' 'yr_renovated']
+852,32.3288,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'yr_renovated']
+1794,32.3289,['bedrooms' 'sqft_living' 'floors' 'view' 'sqft_above' 'yr_renovated']
+1632,32.3316,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'sqft_above' 'yr_built']
+267,32.3341,['bedrooms' 'sqft_living' 'sqft_lot' 'view']
+850,32.3345,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_basement']
+1535,32.3346,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'waterfront' 'view']
+849,32.3346,['bedrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above']
+1687,32.3376,['bedrooms' 'bathrooms' 'waterfront' 'view' 'sqft_above' 'yr_built']
+1686,32.3383,['bedrooms' 'bathrooms' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1290,32.3444,['sqft_living' 'sqft_lot' 'waterfront' 'yr_built' 'yr_renovated']
+863,32.3491,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'view']
+516,32.3505,['sqft_living' 'sqft_lot' 'waterfront' 'yr_built']
+420,32.351,['bathrooms' 'sqft_living' 'yr_built' 'yr_renovated']
+1558,32.3523,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_basement']
+1557,32.353,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above']
+2271,32.354,"['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'yr_built'
+ 'yr_renovated']"
+1283,32.3543,['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'yr_built']
+1781,32.357,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'condition' 'yr_renovated']
+62,32.3572,['bathrooms' 'sqft_living' 'yr_built']
+730,32.3577,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'view']
+1666,32.359,['bedrooms' 'bathrooms' 'floors' 'view' 'sqft_above' 'sqft_basement']
+1545,32.3596,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'view' 'yr_renovated']
+1792,32.3629,['bedrooms' 'sqft_living' 'floors' 'view' 'sqft_above' 'sqft_basement']
+1329,32.3643,['sqft_living' 'floors' 'view' 'condition' 'yr_renovated']
+994,32.3643,['bedrooms' 'floors' 'view' 'sqft_above' 'sqft_basement']
+413,32.3646,['bathrooms' 'sqft_living' 'condition' 'yr_built']
+2419,32.3653,['floors' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1710,32.3665,['bedrooms' 'bathrooms' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+820,32.3672,['bedrooms' 'bathrooms' 'view' 'sqft_above' 'yr_built']
+1124,32.368,['bathrooms' 'sqft_living' 'condition' 'yr_built' 'yr_renovated']
+2043,32.3681,['bathrooms' 'sqft_living' 'floors' 'view' 'condition' 'yr_renovated']
+1543,32.3703,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'view' 'sqft_basement']
+1542,32.3728,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'view' 'sqft_above']
+871,32.3755,['bedrooms' 'sqft_living' 'floors' 'view' 'sqft_basement']
+2315,32.3774,['sqft_living' 'floors' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+873,32.378,['bedrooms' 'sqft_living' 'floors' 'view' 'yr_renovated']
+870,32.3782,['bedrooms' 'sqft_living' 'floors' 'view' 'sqft_above']
+2313,32.3792,['sqft_living' 'floors' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1709,32.3816,['bedrooms' 'bathrooms' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1955,32.3855,"['bedrooms' 'waterfront' 'view' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+2336,32.3873,"['sqft_living' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+2340,32.389,"['sqft_living' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1975,32.3907,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'condition']
+1496,32.3914,['waterfront' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+1261,32.3918,['sqft_living' 'sqft_lot' 'floors' 'view' 'condition']
+2429,32.3922,"['waterfront' 'condition' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2367,32.3923,['sqft_lot' 'floors' 'view' 'condition' 'sqft_above' 'sqft_basement']
+1500,32.3925,['waterfront' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+1812,32.3946,['bedrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1014,32.3953,['bedrooms' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1579,32.3959,"['bedrooms' 'bathrooms' 'sqft_living' 'view' 'sqft_basement'
+ 'yr_renovated']"
+1577,32.3967,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'sqft_above' 'yr_renovated']
+1362,32.3989,['sqft_living' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+1816,32.4015,"['bedrooms' 'sqft_living' 'waterfront' 'view' 'sqft_basement'
+ 'yr_renovated']"
+1814,32.4019,['bedrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+696,32.4025,['waterfront' 'sqft_above' 'sqft_basement' 'yr_built']
+888,32.4031,['bedrooms' 'sqft_living' 'waterfront' 'view' 'yr_renovated']
+740,32.4038,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'yr_renovated']
+2403,32.4047,['floors' 'waterfront' 'view' 'condition' 'sqft_above' 'sqft_basement']
+2151,32.4047,['bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_above' 'yr_built']
+2237,32.4052,['sqft_living' 'sqft_lot' 'floors' 'view' 'condition' 'sqft_basement']
+2236,32.4058,['sqft_living' 'sqft_lot' 'floors' 'view' 'condition' 'sqft_above']
+2201,32.4062,['bathrooms' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_built']
+1357,32.4071,['sqft_living' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+724,32.4076,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'view']
+2338,32.4078,"['sqft_living' 'waterfront' 'condition' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1364,32.4086,['sqft_living' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+1359,32.4094,['sqft_living' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+2339,32.4101,"['sqft_living' 'waterfront' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1365,32.4107,['sqft_living' 'waterfront' 'sqft_basement' 'yr_built' 'yr_renovated']
+886,32.4108,['bedrooms' 'sqft_living' 'waterfront' 'view' 'sqft_basement']
+1718,32.4111,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'condition']
+885,32.4112,['bedrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above']
+280,32.4115,['bedrooms' 'sqft_living' 'waterfront' 'view']
+1575,32.4125,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'sqft_above' 'sqft_basement']
+819,32.4133,['bedrooms' 'bathrooms' 'view' 'sqft_above' 'sqft_basement']
+1311,32.415,['sqft_living' 'floors' 'waterfront' 'view' 'condition']
+2025,32.4154,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'condition']
+2292,32.4174,['sqft_living' 'floors' 'waterfront' 'view' 'condition' 'sqft_basement']
+2291,32.4183,['sqft_living' 'floors' 'waterfront' 'view' 'condition' 'sqft_above']
+564,32.4186,['sqft_living' 'waterfront' 'sqft_above' 'yr_built']
+274,32.4198,['bedrooms' 'sqft_living' 'floors' 'view']
+566,32.4209,['sqft_living' 'waterfront' 'sqft_basement' 'yr_built']
+1923,32.4221,['bedrooms' 'floors' 'waterfront' 'condition' 'sqft_above' 'sqft_basement']
+738,32.4272,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'sqft_basement']
+737,32.428,['bedrooms' 'bathrooms' 'sqft_living' 'view' 'sqft_above']
+223,32.4315,['bedrooms' 'bathrooms' 'sqft_living' 'view']
+1779,32.4325,"['bedrooms' 'sqft_living' 'floors' 'waterfront' 'condition'
+ 'sqft_basement']"
+2135,32.4339,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_built']
+1778,32.436,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'condition' 'sqft_above']
+1241,32.4361,['bathrooms' 'view' 'condition' 'sqft_above' 'yr_built']
+2217,32.4391,['bathrooms' 'view' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+568,32.4487,['sqft_living' 'waterfront' 'yr_built' 'yr_renovated']
+119,32.4577,['sqft_living' 'waterfront' 'yr_built']
+1361,32.458,['sqft_living' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+561,32.4582,['sqft_living' 'waterfront' 'condition' 'yr_built']
+1944,32.4586,"['bedrooms' 'floors' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1835,32.4587,"['bedrooms' 'sqft_living' 'view' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1037,32.4591,['bedrooms' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2311,32.4637,['sqft_living' 'floors' 'view' 'condition' 'sqft_above' 'sqft_basement']
+1471,32.4643,['floors' 'view' 'condition' 'sqft_above' 'sqft_basement']
+2185,32.4643,['bathrooms' 'floors' 'view' 'condition' 'sqft_above' 'sqft_basement']
+2208,32.4651,['bathrooms' 'waterfront' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1225,32.4663,['bathrooms' 'waterfront' 'view' 'sqft_above' 'yr_built']
+903,32.4667,['bedrooms' 'sqft_living' 'view' 'sqft_above' 'sqft_basement']
+369,32.4674,['bedrooms' 'view' 'sqft_above' 'sqft_basement']
+1802,32.4693,"['bedrooms' 'sqft_living' 'floors' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1079,32.4715,['bathrooms' 'sqft_living' 'floors' 'view' 'condition']
+539,32.4717,['sqft_living' 'floors' 'view' 'condition']
+2158,32.4719,['bathrooms' 'sqft_lot' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1170,32.4725,['bathrooms' 'sqft_lot' 'view' 'sqft_above' 'yr_built']
+1800,32.4732,['bedrooms' 'sqft_living' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+907,32.4749,['bedrooms' 'sqft_living' 'view' 'sqft_basement' 'yr_renovated']
+1515,32.4751,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition']
+905,32.4754,['bedrooms' 'sqft_living' 'view' 'sqft_above' 'yr_renovated']
+1731,32.4762,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition' 'yr_renovated']
+1327,32.4767,['sqft_living' 'floors' 'view' 'condition' 'sqft_basement']
+2041,32.4769,['bathrooms' 'sqft_living' 'floors' 'view' 'condition' 'sqft_basement']
+1326,32.4777,['sqft_living' 'floors' 'view' 'condition' 'sqft_above']
+290,32.4779,['bedrooms' 'sqft_living' 'view' 'yr_renovated']
+2040,32.478,['bathrooms' 'sqft_living' 'floors' 'view' 'condition' 'sqft_above']
+1746,32.48,"['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition'
+ 'yr_renovated']"
+1667,32.4819,['bedrooms' 'bathrooms' 'floors' 'view' 'sqft_above' 'yr_built']
+288,32.4828,['bedrooms' 'sqft_living' 'view' 'sqft_basement']
+287,32.4834,['bedrooms' 'sqft_living' 'view' 'sqft_above']
+13,32.4847,['bedrooms' 'sqft_living' 'view']
+2382,32.4907,['sqft_lot' 'waterfront' 'view' 'condition' 'sqft_above' 'sqft_basement']
+1564,32.4921,"['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'condition'
+ 'yr_renovated']"
+1248,32.5008,['bathrooms' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1536,32.5015,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'waterfront' 'condition']
+2286,32.5019,"['sqft_living' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_built']"
+490,32.5024,['bathrooms' 'view' 'sqft_above' 'yr_built']
+2256,32.5051,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'condition' 'sqft_above']
+1446,32.5052,['sqft_lot' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2402,32.5064,"['sqft_lot' 'condition' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2257,32.5071,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'condition' 'sqft_basement']
+2186,32.5091,['bathrooms' 'floors' 'view' 'condition' 'sqft_above' 'yr_built']
+2290,32.511,"['sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1450,32.5137,['sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+1888,32.518,"['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above'
+ 'sqft_basement']"
+864,32.5181,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'condition']
+1307,32.5191,['sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built']
+1302,32.5214,['sqft_living' 'sqft_lot' 'condition' 'sqft_above' 'yr_built']
+641,32.5219,['sqft_lot' 'sqft_above' 'sqft_basement' 'yr_built']
+2288,32.5224,"['sqft_living' 'sqft_lot' 'condition' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1304,32.5241,['sqft_living' 'sqft_lot' 'condition' 'sqft_basement' 'yr_built']
+2289,32.5251,"['sqft_living' 'sqft_lot' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1990,32.527,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'condition']
+2259,32.5294,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'condition' 'yr_renovated']
+1309,32.5303,['sqft_living' 'sqft_lot' 'sqft_above' 'yr_built' 'yr_renovated']
+1310,32.5329,['sqft_living' 'sqft_lot' 'sqft_basement' 'yr_built' 'yr_renovated']
+1744,32.5332,"['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition'
+ 'sqft_basement']"
+1743,32.534,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition' 'sqft_above']
+843,32.5368,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition']
+528,32.5385,['sqft_living' 'sqft_lot' 'sqft_above' 'yr_built']
+2150,32.5408,['bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_above' 'sqft_basement']
+530,32.5409,['sqft_living' 'sqft_lot' 'sqft_basement' 'yr_built']
+1276,32.5427,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'condition']
+1549,32.5483,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'condition' 'yr_renovated']
+2276,32.549,['sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_above' 'sqft_basement']
+1436,32.5503,['sqft_lot' 'view' 'condition' 'sqft_above' 'sqft_basement']
+2005,32.5545,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_above']
+2398,32.5548,['sqft_lot' 'view' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2006,32.556,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_basement']
+1868,32.5598,['bedrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above' 'sqft_basement']
+1291,32.5646,['sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_above']
+1692,32.5661,"['bedrooms' 'bathrooms' 'waterfront' 'condition' 'sqft_above'
+ 'sqft_basement']"
+1292,32.5664,['sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_basement']
+2278,32.5685,['sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1729,32.5694,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_basement']
+2280,32.5701,"['sqft_living' 'sqft_lot' 'view' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+2170,32.5702,['bathrooms' 'floors' 'waterfront' 'view' 'sqft_above' 'yr_built']
+1728,32.5729,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_above']
+532,32.5801,['sqft_living' 'sqft_lot' 'yr_built' 'yr_renovated']
+1562,32.5801,"['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'condition'
+ 'sqft_basement']"
+2008,32.5807,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'condition' 'yr_renovated']
+1561,32.5812,"['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'condition'
+ 'sqft_above']"
+877,32.5821,['bedrooms' 'sqft_living' 'floors' 'condition' 'yr_renovated']
+1306,32.5827,['sqft_living' 'sqft_lot' 'condition' 'yr_built' 'yr_renovated']
+525,32.5831,['sqft_living' 'sqft_lot' 'condition' 'yr_built']
+106,32.5904,['sqft_living' 'sqft_lot' 'yr_built']
+1058,32.5912,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'condition']
+731,32.5932,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'condition']
+2225,32.5934,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'view' 'yr_renovated']
+2115,32.6022,['bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_above' 'yr_built']
+2193,32.6042,['bathrooms' 'floors' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1528,32.6042,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'condition'
+ 'yr_renovated']"
+1205,32.6043,['bathrooms' 'floors' 'view' 'sqft_above' 'yr_built']
+2063,32.605,['bathrooms' 'sqft_living' 'waterfront' 'view' 'condition' 'yr_renovated']
+518,32.6074,['sqft_living' 'sqft_lot' 'view' 'condition']
+1294,32.6075,['sqft_living' 'sqft_lot' 'view' 'condition' 'yr_renovated']
+2425,32.6083,"['waterfront' 'view' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1959,32.6089,"['bedrooms' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+2200,32.6092,['bathrooms' 'waterfront' 'view' 'condition' 'sqft_above' 'sqft_basement']
+2351,32.6163,['sqft_lot' 'floors' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1376,32.6187,['sqft_living' 'condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2346,32.6195,"['sqft_living' 'condition' 'sqft_above' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+2328,32.622,['sqft_living' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_renovated']
+710,32.6224,['condition' 'sqft_above' 'sqft_basement' 'yr_built']
+2060,32.6226,['bathrooms' 'sqft_living' 'waterfront' 'view' 'condition' 'sqft_above']
+1506,32.6231,['condition' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+2330,32.6232,"['sqft_living' 'waterfront' 'view' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+2061,32.624,['bathrooms' 'sqft_living' 'waterfront' 'view' 'condition' 'sqft_basement']
+2326,32.625,"['sqft_living' 'waterfront' 'view' 'condition' 'sqft_above'
+ 'sqft_basement']"
+892,32.6258,['bedrooms' 'sqft_living' 'waterfront' 'condition' 'yr_renovated']
+1822,32.6259,"['bedrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1486,32.6266,['waterfront' 'view' 'condition' 'sqft_above' 'sqft_basement']
+2223,32.6267,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'view' 'sqft_basement']
+1820,32.6267,"['bedrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_above'
+ 'yr_renovated']"
+1380,32.6271,['sqft_living' 'sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+2222,32.6283,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'view' 'sqft_above']
+1672,32.6286,['bedrooms' 'bathrooms' 'floors' 'condition' 'sqft_above' 'sqft_basement']
+714,32.6302,['sqft_above' 'sqft_basement' 'yr_built' 'yr_renovated']
+1255,32.6323,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'view']
+1969,32.6341,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'view']
+1798,32.6343,"['bedrooms' 'sqft_living' 'floors' 'condition' 'sqft_above'
+ 'sqft_basement']"
+1000,32.6365,['bedrooms' 'floors' 'condition' 'sqft_above' 'sqft_basement']
+585,32.6367,['sqft_living' 'sqft_above' 'sqft_basement' 'yr_built']
+1547,32.6383,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_basement']
+580,32.6386,['sqft_living' 'condition' 'sqft_above' 'yr_built']
+1509,32.6391,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition']
+1378,32.6393,['sqft_living' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+216,32.6399,['sqft_above' 'sqft_basement' 'yr_built']
+1094,32.6404,['bathrooms' 'sqft_living' 'waterfront' 'view' 'condition']
+1346,32.6408,['sqft_living' 'waterfront' 'view' 'condition' 'sqft_above']
+582,32.6409,['sqft_living' 'condition' 'sqft_basement' 'yr_built']
+2216,32.6414,"['bathrooms' 'view' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1379,32.6415,['sqft_living' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+1546,32.6418,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_above']
+1347,32.6425,['sqft_living' 'waterfront' 'view' 'condition' 'sqft_basement']
+1349,32.6449,['sqft_living' 'waterfront' 'view' 'condition' 'yr_renovated']
+875,32.6458,['bedrooms' 'sqft_living' 'floors' 'condition' 'sqft_basement']
+587,32.6468,['sqft_living' 'sqft_above' 'yr_built' 'yr_renovated']
+2410,32.6481,['floors' 'waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+588,32.6489,['sqft_living' 'sqft_basement' 'yr_built' 'yr_renovated']
+874,32.6497,['bedrooms' 'sqft_living' 'floors' 'condition' 'sqft_above']
+837,32.6497,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition']
+1818,32.6528,"['bedrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_above'
+ 'sqft_basement']"
+2374,32.6534,['sqft_lot' 'floors' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1020,32.6535,['bedrooms' 'waterfront' 'condition' 'sqft_above' 'sqft_basement']
+2082,32.6543,['bathrooms' 'sqft_living' 'view' 'condition' 'sqft_above' 'yr_renovated']
+2084,32.6558,"['bathrooms' 'sqft_living' 'view' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+131,32.6565,['sqft_living' 'sqft_above' 'yr_built']
+133,32.6586,['sqft_living' 'sqft_basement' 'yr_built']
+2299,32.6592,['sqft_living' 'floors' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+2297,32.6613,['sqft_living' 'floors' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+554,32.6625,['sqft_living' 'waterfront' 'view' 'condition']
+2244,32.6648,['sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+2080,32.6662,['bathrooms' 'sqft_living' 'view' 'condition' 'sqft_above' 'sqft_basement']
+1265,32.6663,['sqft_living' 'sqft_lot' 'floors' 'view' 'yr_renovated']
+2242,32.6666,['sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_above' 'yr_renovated']
+1979,32.6668,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'yr_renovated']
+1240,32.6677,['bathrooms' 'view' 'condition' 'sqft_above' 'sqft_basement']
+890,32.669,['bedrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_basement']
+889,32.67,['bedrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_above']
+1852,32.6731,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above' 'sqft_basement']
+2342,32.6747,"['sqft_living' 'view' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1637,32.6774,"['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'sqft_above'
+ 'sqft_basement']"
+1502,32.6782,['view' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+281,32.6784,['bedrooms' 'sqft_living' 'waterfront' 'condition']
+1109,32.681,['bathrooms' 'sqft_living' 'view' 'condition' 'sqft_above']
+135,32.681,['sqft_living' 'yr_built' 'yr_renovated']
+584,32.6815,['sqft_living' 'condition' 'yr_built' 'yr_renovated']
+1112,32.6817,['bathrooms' 'sqft_living' 'view' 'condition' 'yr_renovated']
+1720,32.6819,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement']
+128,32.682,['sqft_living' 'condition' 'yr_built']
+1110,32.6823,['bathrooms' 'sqft_living' 'view' 'condition' 'sqft_basement']
+2389,32.6826,"['sqft_lot' 'waterfront' 'view' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1366,32.6828,['sqft_living' 'view' 'condition' 'sqft_above' 'sqft_basement']
+700,32.6844,['view' 'condition' 'sqft_above' 'sqft_basement']
+2029,32.6844,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'yr_renovated']
+1315,32.6852,['sqft_living' 'floors' 'waterfront' 'view' 'yr_renovated']
+1719,32.6854,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_above']
+2134,32.6858,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1420,32.6859,['sqft_lot' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+2260,32.686,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1909,32.6871,"['bedrooms' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1713,32.688,"['bedrooms' 'bathrooms' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+2295,32.6904,['sqft_living' 'floors' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1526,32.6905,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'condition'
+ 'sqft_basement']"
+2169,32.6906,['bathrooms' 'floors' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1455,32.6908,['floors' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+1994,32.6911,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'yr_renovated']
+1525,32.6917,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above']
+1368,32.6918,['sqft_living' 'view' 'condition' 'sqft_above' 'yr_renovated']
+2240,32.6926,['sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_above' 'sqft_basement']
+1400,32.6929,['sqft_lot' 'floors' 'view' 'sqft_above' 'sqft_basement']
+1370,32.6931,['sqft_living' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+2114,32.6935,['bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_above' 'sqft_basement']
+1930,32.6945,"['bedrooms' 'floors' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+2262,32.6972,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+2264,32.6983,"['sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_basement'
+ 'yr_renovated']"
+569,32.6984,['sqft_living' 'view' 'condition' 'sqft_above']
+1991,32.699,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_above']
+1992,32.6996,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_basement']
+1277,32.6999,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_above']
+570,32.7001,['sqft_living' 'view' 'condition' 'sqft_basement']
+2027,32.7003,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'sqft_basement']
+406,32.7004,['bathrooms' 'sqft_living' 'view' 'condition']
+1278,32.7005,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'sqft_basement']
+1313,32.7006,['sqft_living' 'floors' 'waterfront' 'view' 'sqft_basement']
+1052,32.7017,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'view']
+2026,32.7025,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'view' 'sqft_above']
+1585,32.7027,"['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1312,32.7027,['sqft_living' 'floors' 'waterfront' 'view' 'sqft_above']
+1263,32.703,['sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_basement']
+1767,32.7032,"['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+512,32.7034,['sqft_living' 'sqft_lot' 'waterfront' 'view']
+1786,32.7034,"['bedrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+1977,32.7036,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_basement']
+1765,32.7039,"['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above'
+ 'yr_renovated']"
+1583,32.704,"['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'sqft_above'
+ 'yr_renovated']"
+856,32.704,['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'yr_renovated']
+506,32.7045,['sqft_living' 'sqft_lot' 'floors' 'view']
+1621,32.7045,"['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'sqft_above'
+ 'sqft_basement']"
+1262,32.7048,['sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_above']
+1280,32.705,['sqft_living' 'sqft_lot' 'waterfront' 'view' 'yr_renovated']
+1976,32.7054,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'view' 'sqft_above']
+718,32.7064,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'condition']
+1046,32.7066,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'view']
+1784,32.7077,"['bedrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above'
+ 'yr_renovated']"
+744,32.7121,['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'yr_renovated']
+1519,32.7156,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'waterfront'
+ 'yr_renovated']"
+1517,32.7158,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'waterfront'
+ 'sqft_basement']"
+1516,32.7178,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above']
+1895,32.7184,"['bedrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+572,32.7193,['sqft_living' 'view' 'condition' 'yr_renovated']
+121,32.7235,['sqft_living' 'view' 'condition']
+533,32.7264,['sqft_living' 'floors' 'waterfront' 'view']
+1073,32.7265,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'view']
+1478,32.7265,['floors' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2318,32.7266,['sqft_living' 'floors' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2192,32.7267,['bathrooms' 'floors' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1751,32.7316,"['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+1749,32.7334,"['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above'
+ 'yr_renovated']"
+725,32.7369,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'condition']
+1334,32.7377,['sqft_living' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+1763,32.7378,"['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above'
+ 'sqft_basement']"
+2048,32.7379,['bathrooms' 'sqft_living' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+1722,32.7386,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'yr_renovated']
+965,32.739,['bedrooms' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement']
+1332,32.7399,['sqft_living' 'floors' 'view' 'sqft_above' 'yr_renovated']
+2046,32.74,['bathrooms' 'sqft_living' 'floors' 'view' 'sqft_above' 'yr_renovated']
+1747,32.7441,"['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above'
+ 'sqft_basement']"
+949,32.7461,['bedrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement']
+2157,32.7481,['bathrooms' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1656,32.7524,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'sqft_above' 'sqft_basement']
+854,32.7536,['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_basement']
+853,32.7546,['bedrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above']
+275,32.7557,['bedrooms' 'sqft_living' 'floors' 'condition']
+1083,32.7569,['bathrooms' 'sqft_living' 'floors' 'view' 'yr_renovated']
+1782,32.757,"['bedrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above'
+ 'sqft_basement']"
+543,32.7577,['sqft_living' 'floors' 'view' 'yr_renovated']
+2283,32.7584,"['sqft_living' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1443,32.7587,['sqft_lot' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+845,32.7588,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement']
+984,32.7597,['bedrooms' 'floors' 'waterfront' 'sqft_above' 'sqft_basement']
+629,32.7597,['sqft_lot' 'view' 'sqft_above' 'sqft_basement']
+1295,32.7599,['sqft_living' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement']
+844,32.7605,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above']
+1538,32.7608,"['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'waterfront'
+ 'sqft_basement']"
+2011,32.7615,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above' 'yr_renovated']
+1169,32.7617,['bathrooms' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement']
+2009,32.7619,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above' 'sqft_basement']
+2013,32.7623,"['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_basement'
+ 'yr_renovated']"
+268,32.7633,['bedrooms' 'sqft_living' 'sqft_lot' 'condition']
+716,32.7635,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'waterfront']
+1537,32.7648,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above']
+847,32.7675,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'yr_renovated']
+2044,32.7676,['bathrooms' 'sqft_living' 'floors' 'view' 'sqft_above' 'sqft_basement']
+1204,32.7678,['bathrooms' 'floors' 'view' 'sqft_above' 'sqft_basement']
+866,32.768,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_basement']
+1330,32.7682,['sqft_living' 'floors' 'view' 'sqft_above' 'sqft_basement']
+664,32.7684,['floors' 'view' 'sqft_above' 'sqft_basement']
+1062,32.7712,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'yr_renovated']
+865,32.7722,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above']
+1297,32.773,['sqft_living' 'sqft_lot' 'view' 'sqft_above' 'yr_renovated']
+519,32.7737,['sqft_living' 'sqft_lot' 'view' 'sqft_above']
+1299,32.7741,['sqft_living' 'sqft_lot' 'view' 'sqft_basement' 'yr_renovated']
+520,32.7744,['sqft_living' 'sqft_lot' 'view' 'sqft_basement']
+1059,32.7748,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_above']
+1060,32.7754,['bathrooms' 'sqft_living' 'sqft_lot' 'view' 'sqft_basement']
+1081,32.7777,['bathrooms' 'sqft_living' 'floors' 'view' 'sqft_basement']
+541,32.7782,['sqft_living' 'floors' 'view' 'sqft_basement']
+1581,32.7792,"['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'sqft_above'
+ 'sqft_basement']"
+387,32.7796,['bathrooms' 'sqft_living' 'sqft_lot' 'view']
+102,32.7796,['sqft_living' 'sqft_lot' 'view']
+1080,32.7799,['bathrooms' 'sqft_living' 'floors' 'view' 'sqft_above']
+825,32.7803,['bedrooms' 'bathrooms' 'condition' 'sqft_above' 'sqft_basement']
+540,32.7804,['sqft_living' 'floors' 'view' 'sqft_above']
+1699,32.7806,"['bedrooms' 'bathrooms' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+522,32.7841,['sqft_living' 'sqft_lot' 'view' 'yr_renovated']
+2207,32.7847,"['bathrooms' 'waterfront' 'view' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1507,32.7857,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront']
+266,32.7917,['bedrooms' 'sqft_living' 'sqft_lot' 'waterfront']
+1569,32.7923,"['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+742,32.7935,['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'sqft_basement']
+1567,32.7948,"['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'sqft_above'
+ 'yr_renovated']"
+741,32.795,['bedrooms' 'bathrooms' 'sqft_living' 'condition' 'sqft_above']
+2229,32.7953,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'condition' 'yr_renovated']
+835,32.7961,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront']
+2066,32.7981,['bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+109,32.7983,['sqft_living' 'floors' 'view']
+2068,32.7984,"['bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_basement'
+ 'yr_renovated']"
+394,32.7986,['bathrooms' 'sqft_living' 'floors' 'view']
+1098,32.799,['bathrooms' 'sqft_living' 'waterfront' 'view' 'yr_renovated']
+1224,32.8004,['bathrooms' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+2064,32.8005,"['bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above'
+ 'sqft_basement']"
+2333,32.8098,"['sqft_living' 'waterfront' 'view' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1493,32.8102,['waterfront' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+400,32.8133,['bathrooms' 'sqft_living' 'waterfront' 'view']
+1095,32.8133,['bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_above']
+1096,32.8135,['bathrooms' 'sqft_living' 'waterfront' 'view' 'sqft_basement']
+1350,32.8138,['sqft_living' 'waterfront' 'view' 'sqft_above' 'sqft_basement']
+684,32.8138,['waterfront' 'view' 'sqft_above' 'sqft_basement']
+1565,32.8165,"['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'sqft_above'
+ 'sqft_basement']"
+809,32.8184,['bedrooms' 'bathrooms' 'waterfront' 'sqft_above' 'sqft_basement']
+2414,32.8192,"['floors' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+224,32.8205,['bedrooms' 'bathrooms' 'sqft_living' 'condition']
+1839,32.8232,"['bedrooms' 'sqft_living' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1041,32.8233,['bedrooms' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1352,32.8247,['sqft_living' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+1354,32.8251,['sqft_living' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+558,32.826,['sqft_living' 'waterfront' 'view' 'yr_renovated']
+555,32.8277,['sqft_living' 'waterfront' 'view' 'sqft_above']
+115,32.8277,['sqft_living' 'waterfront' 'view']
+556,32.8281,['sqft_living' 'waterfront' 'view' 'sqft_basement']
+733,32.8295,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'sqft_basement']
+2305,32.832,"['sqft_living' 'floors' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+732,32.832,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'sqft_above']
+2303,32.8351,"['sqft_living' 'floors' 'waterfront' 'condition' 'sqft_above'
+ 'yr_renovated']"
+913,32.8398,['bedrooms' 'sqft_living' 'condition' 'sqft_basement' 'yr_renovated']
+911,32.8408,['bedrooms' 'sqft_living' 'condition' 'sqft_above' 'yr_renovated']
+1875,32.8446,"['bedrooms' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+294,32.8461,['bedrooms' 'sqft_living' 'condition' 'yr_renovated']
+1540,32.8477,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'waterfront' 'yr_renovated']
+1736,32.8532,"['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_basement'
+ 'yr_renovated']"
+1734,32.857,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'yr_renovated']
+735,32.8576,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront' 'yr_renovated']
+1825,32.8593,"['bedrooms' 'sqft_living' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1027,32.8608,['bedrooms' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2087,32.8617,"['bathrooms' 'sqft_living' 'view' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1247,32.8622,['bathrooms' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+909,32.8692,['bedrooms' 'sqft_living' 'condition' 'sqft_above' 'sqft_basement']
+375,32.8703,['bedrooms' 'condition' 'sqft_above' 'sqft_basement']
+868,32.8735,['bedrooms' 'sqft_living' 'floors' 'waterfront' 'yr_renovated']
+897,32.8741,['bedrooms' 'sqft_living' 'waterfront' 'sqft_basement' 'yr_renovated']
+1115,32.8753,['bathrooms' 'sqft_living' 'view' 'sqft_above' 'yr_renovated']
+1117,32.8757,['bathrooms' 'sqft_living' 'view' 'sqft_basement' 'yr_renovated']
+895,32.8763,['bedrooms' 'sqft_living' 'waterfront' 'sqft_above' 'yr_renovated']
+1113,32.8768,['bathrooms' 'sqft_living' 'view' 'sqft_above' 'sqft_basement']
+489,32.8768,['bathrooms' 'view' 'sqft_above' 'sqft_basement']
+410,32.8772,['bathrooms' 'sqft_living' 'view' 'yr_renovated']
+2033,32.8781,"['bathrooms' 'sqft_living' 'floors' 'waterfront' 'condition'
+ 'yr_renovated']"
+893,32.8783,['bedrooms' 'sqft_living' 'waterfront' 'sqft_above' 'sqft_basement']
+359,32.8801,['bedrooms' 'waterfront' 'sqft_above' 'sqft_basement']
+1319,32.8807,['sqft_living' 'floors' 'waterfront' 'condition' 'yr_renovated']
+292,32.8849,['bedrooms' 'sqft_living' 'condition' 'sqft_basement']
+1373,32.8858,['sqft_living' 'view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+707,32.8863,['view' 'sqft_above' 'sqft_basement' 'yr_renovated']
+291,32.8865,['bedrooms' 'sqft_living' 'condition' 'sqft_above']
+573,32.888,['sqft_living' 'view' 'sqft_above' 'sqft_basement']
+204,32.8881,['view' 'sqft_above' 'sqft_basement']
+407,32.8895,['bathrooms' 'sqft_living' 'view' 'sqft_above']
+408,32.8898,['bathrooms' 'sqft_living' 'view' 'sqft_basement']
+58,32.8901,['bathrooms' 'sqft_living' 'view']
+283,32.8928,['bedrooms' 'sqft_living' 'waterfront' 'sqft_basement']
+282,32.8951,['bedrooms' 'sqft_living' 'waterfront' 'sqft_above']
+222,32.8999,['bedrooms' 'bathrooms' 'sqft_living' 'waterfront']
+575,32.9006,['sqft_living' 'view' 'sqft_above' 'yr_renovated']
+577,32.901,['sqft_living' 'view' 'sqft_basement' 'yr_renovated']
+122,32.9018,['sqft_living' 'view' 'sqft_above']
+123,32.9023,['sqft_living' 'view' 'sqft_basement']
+125,32.9029,['sqft_living' 'view' 'yr_renovated']
+1644,32.904,"['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1606,32.9041,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement']
+14,32.905,['bedrooms' 'sqft_living' 'condition']
+1732,32.9076,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement']
+723,32.9104,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'waterfront']
+934,32.9107,['bedrooms' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement']
+1511,32.9121,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_basement']
+1533,32.9153,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'sqft_basement'
+ 'yr_renovated']"
+1510,32.9157,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above']
+1679,32.9174,"['bedrooms' 'bathrooms' 'floors' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1531,32.9174,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above'
+ 'yr_renovated']"
+839,32.9187,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_basement']
+838,32.9226,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above']
+1805,32.9251,"['bedrooms' 'sqft_living' 'floors' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1554,32.9254,"['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'sqft_basement'
+ 'yr_renovated']"
+1007,32.9279,['bedrooms' 'floors' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2357,32.9281,['sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_above' 'sqft_basement']
+285,32.9289,['bedrooms' 'sqft_living' 'waterfront' 'yr_renovated']
+1552,32.9297,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'sqft_above' 'yr_renovated']
+273,32.9299,['bedrooms' 'sqft_living' 'floors' 'waterfront']
+882,32.936,['bedrooms' 'sqft_living' 'floors' 'sqft_basement' 'yr_renovated']
+2227,32.9392,"['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'condition'
+ 'sqft_basement']"
+880,32.9405,['bedrooms' 'sqft_living' 'floors' 'sqft_above' 'yr_renovated']
+2226,32.9414,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_above']
+1529,32.9428,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above'
+ 'sqft_basement']"
+773,32.9452,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_above' 'sqft_basement']
+12,32.948,['bedrooms' 'sqft_living' 'waterfront']
+720,32.956,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'sqft_basement']
+719,32.9581,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above']
+1770,32.9617,"['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1693,32.9623,['bedrooms' 'bathrooms' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+972,32.9636,['bedrooms' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1256,32.966,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'condition']
+1970,32.9662,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'condition']
+722,32.9674,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'yr_renovated']
+861,32.9765,['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_basement' 'yr_renovated']
+859,32.9781,['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'yr_renovated']
+1550,32.9793,"['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'sqft_above'
+ 'sqft_basement']"
+1513,32.9809,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'yr_renovated']
+794,32.9823,['bedrooms' 'bathrooms' 'floors' 'sqft_above' 'sqft_basement']
+857,32.9825,['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement']
+323,32.9848,['bedrooms' 'sqft_lot' 'sqft_above' 'sqft_basement']
+878,32.9882,['bedrooms' 'sqft_living' 'floors' 'sqft_above' 'sqft_basement']
+727,32.99,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'sqft_basement']
+344,32.9913,['bedrooms' 'floors' 'sqft_above' 'sqft_basement']
+2301,32.9926,"['sqft_living' 'floors' 'waterfront' 'condition' 'sqft_above'
+ 'sqft_basement']"
+2175,32.9933,"['bathrooms' 'floors' 'waterfront' 'condition' 'sqft_above'
+ 'sqft_basement']"
+1461,32.9936,['floors' 'waterfront' 'condition' 'sqft_above' 'sqft_basement']
+726,32.9942,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'sqft_above']
+841,32.9958,['bedrooms' 'sqft_living' 'sqft_lot' 'floors' 'yr_renovated']
+270,32.9967,['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_basement']
+269,32.9988,['bedrooms' 'sqft_living' 'sqft_lot' 'sqft_above']
+277,32.999,['bedrooms' 'sqft_living' 'floors' 'sqft_basement']
+276,33.0034,['bedrooms' 'sqft_living' 'floors' 'sqft_above']
+2031,33.004,"['bathrooms' 'sqft_living' 'floors' 'waterfront' 'condition'
+ 'sqft_basement']"
+1317,33.0042,['sqft_living' 'floors' 'waterfront' 'condition' 'sqft_basement']
+2030,33.0066,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'condition' 'sqft_above']
+1622,33.0067,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built']
+1316,33.0068,['sqft_living' 'floors' 'waterfront' 'condition' 'sqft_above']
+220,33.0074,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot']
+272,33.0131,['bedrooms' 'sqft_living' 'sqft_lot' 'yr_renovated']
+1588,33.0132,"['bedrooms' 'bathrooms' 'sqft_living' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+832,33.0151,['bedrooms' 'bathrooms' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2378,33.0192,"['sqft_lot' 'floors' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+749,33.0261,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_basement' 'yr_renovated']
+747,33.0287,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_above' 'yr_renovated']
+2250,33.0317,"['sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+2248,33.0345,['sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+10,33.0363,['bedrooms' 'sqft_living' 'sqft_lot']
+810,33.0383,['bedrooms' 'bathrooms' 'waterfront' 'sqft_above' 'yr_built']
+1700,33.0389,"['bedrooms' 'bathrooms' 'waterfront' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+715,33.0399,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_lot' 'floors']
+745,33.0487,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_above' 'sqft_basement']
+1998,33.0494,"['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition'
+ 'yr_renovated']"
+259,33.0509,['bedrooms' 'bathrooms' 'sqft_above' 'sqft_basement']
+265,33.0532,['bedrooms' 'sqft_living' 'sqft_lot' 'floors']
+534,33.0541,['sqft_living' 'floors' 'waterfront' 'condition']
+1074,33.0541,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'condition']
+226,33.0613,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_basement']
+2393,33.0613,"['sqft_lot' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+225,33.064,['bedrooms' 'bathrooms' 'sqft_living' 'sqft_above']
+1983,33.0737,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition' 'yr_renovated']
+1269,33.0738,['sqft_living' 'sqft_lot' 'floors' 'condition' 'yr_renovated']
+2322,33.0752,"['sqft_living' 'floors' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1482,33.0756,['floors' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2196,33.0766,"['bathrooms' 'floors' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+2268,33.0773,"['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'sqft_above'
+ 'yr_renovated']"
+2270,33.0777,"['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1284,33.0821,['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'yr_renovated']
+1340,33.088,['sqft_living' 'floors' 'condition' 'sqft_basement' 'yr_renovated']
+2054,33.089,"['bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1338,33.0911,['sqft_living' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+2052,33.0921,"['bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_above'
+ 'yr_renovated']"
+916,33.0933,['bedrooms' 'sqft_living' 'sqft_above' 'sqft_basement' 'yr_renovated']
+382,33.0951,['bedrooms' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2141,33.0967,['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+2140,33.1051,"['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above'
+ 'sqft_basement']"
+729,33.1054,['bedrooms' 'bathrooms' 'sqft_living' 'floors' 'yr_renovated']
+228,33.1059,['bedrooms' 'bathrooms' 'sqft_living' 'yr_renovated']
+299,33.1078,['bedrooms' 'sqft_living' 'sqft_basement' 'yr_renovated']
+295,33.1092,['bedrooms' 'sqft_living' 'sqft_above' 'sqft_basement']
+297,33.1101,['bedrooms' 'sqft_living' 'sqft_above' 'yr_renovated']
+49,33.1113,['bedrooms' 'sqft_above' 'sqft_basement']
+1426,33.1172,['sqft_lot' 'waterfront' 'condition' 'sqft_above' 'sqft_basement']
+2266,33.1173,"['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'sqft_above'
+ 'sqft_basement']"
+1053,33.1193,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition']
+1996,33.1201,"['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition'
+ 'sqft_basement']"
+1995,33.1202,"['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'condition'
+ 'sqft_above']"
+16,33.1233,['bedrooms' 'sqft_living' 'sqft_basement']
+2212,33.1235,"['bathrooms' 'waterfront' 'condition' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+2364,33.1248,"['sqft_lot' 'floors' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+15,33.1258,['bedrooms' 'sqft_living' 'sqft_above']
+1231,33.1258,['bathrooms' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+279,33.1278,['bedrooms' 'sqft_living' 'floors' 'yr_renovated']
+513,33.1332,['sqft_living' 'sqft_lot' 'waterfront' 'condition']
+2234,33.1332,"['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+1281,33.1333,['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'sqft_above']
+1282,33.1334,['sqft_living' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement']
+2211,33.1362,"['bathrooms' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+2232,33.1363,"['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_above'
+ 'yr_renovated']"
+2148,33.1437,"['bathrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1160,33.1438,['bathrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built']
+0,33.1466,['bedrooms' 'bathrooms' 'sqft_living']
+1087,33.1494,['bathrooms' 'sqft_living' 'floors' 'condition' 'yr_renovated']
+1102,33.1501,['bathrooms' 'sqft_living' 'waterfront' 'condition' 'yr_renovated']
+547,33.1508,['sqft_living' 'floors' 'condition' 'yr_renovated']
+2072,33.1511,"['bathrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_above'
+ 'yr_renovated']"
+2074,33.1513,"['bathrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1638,33.1524,['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'sqft_above' 'yr_built']
+221,33.1666,['bedrooms' 'bathrooms' 'sqft_living' 'floors']
+1657,33.1689,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+18,33.1712,['bedrooms' 'sqft_living' 'yr_renovated']
+1238,33.1783,['bathrooms' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+480,33.1785,['bathrooms' 'waterfront' 'sqft_above' 'yr_built']
+11,33.182,['bedrooms' 'sqft_living' 'floors']
+826,33.1841,['bedrooms' 'bathrooms' 'condition' 'sqft_above' 'yr_built']
+1714,33.1848,['bedrooms' 'bathrooms' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+2308,33.187,"['sqft_living' 'floors' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+2337,33.1879,"['sqft_living' 'waterfront' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+2182,33.1889,"['bathrooms' 'floors' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1468,33.1891,['floors' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1497,33.1896,['waterfront' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+2104,33.1917,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above' 'sqft_basement']
+2230,33.1942,"['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_above'
+ 'sqft_basement']"
+1390,33.1967,['sqft_lot' 'floors' 'waterfront' 'sqft_above' 'sqft_basement']
+2038,33.1969,"['bathrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+1324,33.1971,['sqft_living' 'floors' 'waterfront' 'sqft_basement' 'yr_renovated']
+1972,33.1984,"['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront'
+ 'sqft_basement']"
+2246,33.199,"['sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_above'
+ 'sqft_basement']"
+2120,33.1991,['bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above' 'sqft_basement']
+2036,33.2005,"['bathrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above'
+ 'yr_renovated']"
+1322,33.2006,['sqft_living' 'floors' 'waterfront' 'sqft_above' 'yr_renovated']
+1406,33.2007,['sqft_lot' 'floors' 'condition' 'sqft_above' 'sqft_basement']
+1971,33.2018,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_above']
+1258,33.2035,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement']
+562,33.204,['sqft_living' 'waterfront' 'condition' 'yr_renovated']
+1360,33.2055,['sqft_living' 'waterfront' 'condition' 'sqft_basement' 'yr_renovated']
+1358,33.2055,['sqft_living' 'waterfront' 'condition' 'sqft_above' 'yr_renovated']
+1257,33.2067,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'sqft_above']
+1981,33.2092,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_basement']
+1267,33.2109,['sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_basement']
+2070,33.2109,"['bathrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_above'
+ 'sqft_basement']"
+1230,33.211,['bathrooms' 'waterfront' 'condition' 'sqft_above' 'sqft_basement']
+1980,33.2118,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_above']
+1266,33.2133,['sqft_living' 'sqft_lot' 'floors' 'condition' 'sqft_above']
+1260,33.2205,['sqft_living' 'sqft_lot' 'floors' 'waterfront' 'yr_renovated']
+1974,33.2205,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront' 'yr_renovated']
+1100,33.2253,['bathrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_basement']
+1099,33.2258,['bathrooms' 'sqft_living' 'waterfront' 'condition' 'sqft_above']
+401,33.2261,['bathrooms' 'sqft_living' 'waterfront' 'condition']
+1356,33.234,['sqft_living' 'waterfront' 'condition' 'sqft_above' 'sqft_basement']
+690,33.2341,['waterfront' 'condition' 'sqft_above' 'sqft_basement']
+2176,33.2353,['bathrooms' 'floors' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+1645,33.2428,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_above' 'yr_built' 'yr_renovated']
+774,33.2433,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_above' 'yr_built']
+560,33.2496,['sqft_living' 'waterfront' 'condition' 'sqft_basement']
+116,33.2499,['sqft_living' 'waterfront' 'condition']
+559,33.2499,['sqft_living' 'waterfront' 'condition' 'sqft_above']
+2034,33.2522,"['bathrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above'
+ 'sqft_basement']"
+507,33.2538,['sqft_living' 'sqft_lot' 'floors' 'condition']
+1047,33.2543,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'condition']
+2147,33.2544,"['bathrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1320,33.2546,['sqft_living' 'floors' 'waterfront' 'sqft_above' 'sqft_basement']
+1194,33.2547,['bathrooms' 'floors' 'waterfront' 'sqft_above' 'sqft_basement']
+654,33.257,['floors' 'waterfront' 'sqft_above' 'sqft_basement']
+2050,33.2596,"['bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_above'
+ 'sqft_basement']"
+1336,33.2601,['sqft_living' 'floors' 'condition' 'sqft_above' 'sqft_basement']
+1076,33.2612,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_basement']
+1210,33.2613,['bathrooms' 'floors' 'condition' 'sqft_above' 'sqft_basement']
+670,33.2617,['floors' 'condition' 'sqft_above' 'sqft_basement']
+2273,33.2617,"['sqft_living' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1433,33.2629,['sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_renovated']
+536,33.2634,['sqft_living' 'floors' 'waterfront' 'sqft_basement']
+1075,33.2649,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'sqft_above']
+2003,33.2668,"['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+535,33.2671,['sqft_living' 'floors' 'waterfront' 'sqft_above']
+2001,33.2676,"['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above'
+ 'yr_renovated']"
+1085,33.2709,['bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_basement']
+260,33.2709,['bedrooms' 'bathrooms' 'sqft_above' 'yr_built']
+833,33.2712,['bedrooms' 'bathrooms' 'sqft_above' 'yr_built' 'yr_renovated']
+545,33.2712,['sqft_living' 'floors' 'condition' 'sqft_basement']
+1084,33.2739,['bathrooms' 'sqft_living' 'floors' 'condition' 'sqft_above']
+544,33.2742,['sqft_living' 'floors' 'condition' 'sqft_above']
+1057,33.2744,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'yr_renovated']
+1289,33.2762,['sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_renovated']
+1287,33.2769,['sqft_living' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_renovated']
+517,33.281,['sqft_living' 'sqft_lot' 'waterfront' 'yr_renovated']
+1285,33.2856,['sqft_living' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement']
+1045,33.2862,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'waterfront']
+619,33.2872,['sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement']
+505,33.2874,['sqft_living' 'sqft_lot' 'floors' 'waterfront']
+1999,33.2898,"['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above'
+ 'sqft_basement']"
+2105,33.2908,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+1159,33.2914,['bathrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'sqft_basement']
+515,33.2987,['sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement']
+514,33.2996,['sqft_living' 'sqft_lot' 'waterfront' 'sqft_above']
+1195,33.3001,['bathrooms' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+2183,33.301,['bathrooms' 'floors' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+1055,33.3022,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_basement']
+2161,33.3028,"['bathrooms' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1054,33.3032,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront' 'sqft_above']
+101,33.3051,['sqft_living' 'sqft_lot' 'waterfront']
+386,33.3109,['bathrooms' 'sqft_living' 'sqft_lot' 'waterfront']
+1078,33.3167,['bathrooms' 'sqft_living' 'floors' 'waterfront' 'yr_renovated']
+1673,33.3171,['bedrooms' 'bathrooms' 'floors' 'condition' 'sqft_above' 'yr_built']
+538,33.3177,['sqft_living' 'floors' 'waterfront' 'yr_renovated']
+2017,33.3186,"['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above'
+ 'yr_renovated']"
+2019,33.3192,"['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1066,33.3218,['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'yr_renovated']
+1176,33.3271,['bathrooms' 'sqft_lot' 'condition' 'sqft_above' 'yr_built']
+2162,33.3292,['bathrooms' 'sqft_lot' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+2287,33.3351,"['sqft_living' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1447,33.3358,['sqft_lot' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+110,33.339,['sqft_living' 'floors' 'condition']
+395,33.3398,['bathrooms' 'sqft_living' 'floors' 'condition']
+1303,33.3526,['sqft_living' 'sqft_lot' 'condition' 'sqft_above' 'yr_renovated']
+1305,33.353,['sqft_living' 'sqft_lot' 'condition' 'sqft_basement' 'yr_renovated']
+1252,33.3534,['bathrooms' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+526,33.3548,['sqft_living' 'sqft_lot' 'condition' 'yr_renovated']
+496,33.355,['bathrooms' 'condition' 'sqft_above' 'yr_built']
+2077,33.3578,"['bathrooms' 'sqft_living' 'waterfront' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1237,33.3587,['bathrooms' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1107,33.3708,['bathrooms' 'sqft_living' 'waterfront' 'sqft_basement' 'yr_renovated']
+1105,33.3721,['bathrooms' 'sqft_living' 'waterfront' 'sqft_above' 'yr_renovated']
+108,33.3779,['sqft_living' 'floors' 'waterfront']
+393,33.3785,['bathrooms' 'sqft_living' 'floors' 'waterfront']
+1363,33.3788,['sqft_living' 'waterfront' 'sqft_above' 'sqft_basement' 'yr_renovated']
+697,33.3797,['waterfront' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1103,33.3868,['bathrooms' 'sqft_living' 'waterfront' 'sqft_above' 'sqft_basement']
+2015,33.3876,"['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above'
+ 'sqft_basement']"
+1175,33.3881,['bathrooms' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement']
+479,33.3882,['bathrooms' 'waterfront' 'sqft_above' 'sqft_basement']
+405,33.3882,['bathrooms' 'sqft_living' 'waterfront' 'yr_renovated']
+1183,33.3917,['bathrooms' 'sqft_lot' 'sqft_above' 'yr_built' 'yr_renovated']
+444,33.3919,['bathrooms' 'sqft_lot' 'sqft_above' 'yr_built']
+567,33.3927,['sqft_living' 'waterfront' 'sqft_basement' 'yr_renovated']
+565,33.394,['sqft_living' 'waterfront' 'sqft_above' 'yr_renovated']
+563,33.3946,['sqft_living' 'waterfront' 'sqft_above' 'sqft_basement']
+1301,33.3959,['sqft_living' 'sqft_lot' 'condition' 'sqft_above' 'sqft_basement']
+194,33.3959,['waterfront' 'sqft_above' 'sqft_basement']
+635,33.3965,['sqft_lot' 'condition' 'sqft_above' 'sqft_basement']
+403,33.3987,['bathrooms' 'sqft_living' 'waterfront' 'sqft_basement']
+2091,33.3996,"['bathrooms' 'sqft_living' 'condition' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+402,33.4,['bathrooms' 'sqft_living' 'waterfront' 'sqft_above']
+1251,33.4008,['bathrooms' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1064,33.4024,['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_basement']
+1063,33.4026,['bathrooms' 'sqft_living' 'sqft_lot' 'condition' 'sqft_above']
+388,33.403,['bathrooms' 'sqft_living' 'sqft_lot' 'condition']
+118,33.4074,['sqft_living' 'waterfront' 'sqft_basement']
+120,33.4083,['sqft_living' 'waterfront' 'yr_renovated']
+117,33.4087,['sqft_living' 'waterfront' 'sqft_above']
+1607,33.4089,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'yr_built']
+2253,33.4116,"['sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+524,33.4117,['sqft_living' 'sqft_lot' 'condition' 'sqft_basement']
+523,33.4118,['sqft_living' 'sqft_lot' 'condition' 'sqft_above']
+103,33.4118,['sqft_living' 'sqft_lot' 'condition']
+2127,33.413,"['bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1413,33.4144,['sqft_lot' 'floors' 'sqft_above' 'sqft_basement' 'yr_renovated']
+795,33.4148,['bedrooms' 'bathrooms' 'floors' 'sqft_above' 'yr_built']
+1680,33.4148,['bedrooms' 'bathrooms' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+1121,33.4163,['bathrooms' 'sqft_living' 'condition' 'sqft_above' 'yr_renovated']
+1123,33.4166,['bathrooms' 'sqft_living' 'condition' 'sqft_basement' 'yr_renovated']
+414,33.417,['bathrooms' 'sqft_living' 'condition' 'yr_renovated']
+57,33.4179,['bathrooms' 'sqft_living' 'waterfront']
+1988,33.4203,"['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_basement'
+ 'yr_renovated']"
+1274,33.4217,['sqft_living' 'sqft_lot' 'floors' 'sqft_basement' 'yr_renovated']
+95,33.4228,['bathrooms' 'sqft_above' 'yr_built']
+503,33.4229,['bathrooms' 'sqft_above' 'yr_built' 'yr_renovated']
+1986,33.4238,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'yr_renovated']
+1272,33.4252,['sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'yr_renovated']
+2197,33.4484,['bathrooms' 'floors' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+1377,33.4513,['sqft_living' 'condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+711,33.4523,['condition' 'sqft_above' 'sqft_basement' 'yr_renovated']
+581,33.4689,['sqft_living' 'condition' 'sqft_above' 'yr_renovated']
+2121,33.4692,['bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_built']
+583,33.4693,['sqft_living' 'condition' 'sqft_basement' 'yr_renovated']
+129,33.47,['sqft_living' 'condition' 'yr_renovated']
+2057,33.47,"['bathrooms' 'sqft_living' 'floors' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1984,33.4701,"['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above'
+ 'sqft_basement']"
+1343,33.4705,['sqft_living' 'floors' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1211,33.4711,['bathrooms' 'floors' 'condition' 'sqft_above' 'yr_built']
+1217,33.4727,['bathrooms' 'floors' 'sqft_above' 'sqft_basement' 'yr_renovated']
+677,33.4732,['floors' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1144,33.4734,['bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement']
+1270,33.479,['sqft_living' 'sqft_lot' 'floors' 'sqft_above' 'sqft_basement']
+1049,33.4791,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_basement']
+1092,33.4798,['bathrooms' 'sqft_living' 'floors' 'sqft_basement' 'yr_renovated']
+552,33.4802,['sqft_living' 'floors' 'sqft_basement' 'yr_renovated']
+604,33.4822,['sqft_lot' 'floors' 'sqft_above' 'sqft_basement']
+1048,33.4829,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'sqft_above']
+1090,33.4836,['bathrooms' 'sqft_living' 'floors' 'sqft_above' 'yr_renovated']
+550,33.4841,['sqft_living' 'floors' 'sqft_above' 'yr_renovated']
+1119,33.4859,['bathrooms' 'sqft_living' 'condition' 'sqft_above' 'sqft_basement']
+495,33.4861,['bathrooms' 'condition' 'sqft_above' 'sqft_basement']
+509,33.4879,['sqft_living' 'sqft_lot' 'floors' 'sqft_basement']
+508,33.4915,['sqft_living' 'sqft_lot' 'floors' 'sqft_above']
+412,33.5001,['bathrooms' 'sqft_living' 'condition' 'sqft_basement']
+411,33.5007,['bathrooms' 'sqft_living' 'condition' 'sqft_above']
+59,33.5042,['bathrooms' 'sqft_living' 'condition']
+579,33.5072,['sqft_living' 'condition' 'sqft_above' 'sqft_basement']
+210,33.5074,['condition' 'sqft_above' 'sqft_basement']
+127,33.5225,['sqft_living' 'condition' 'sqft_basement']
+126,33.5231,['sqft_living' 'condition' 'sqft_above']
+1088,33.5285,['bathrooms' 'sqft_living' 'floors' 'sqft_above' 'sqft_basement']
+511,33.531,['sqft_living' 'sqft_lot' 'floors' 'yr_renovated']
+1051,33.531,['bathrooms' 'sqft_living' 'sqft_lot' 'floors' 'yr_renovated']
+464,33.5316,['bathrooms' 'floors' 'sqft_above' 'sqft_basement']
+548,33.5332,['sqft_living' 'floors' 'sqft_above' 'sqft_basement']
+179,33.5362,['floors' 'sqft_above' 'sqft_basement']
+397,33.537,['bathrooms' 'sqft_living' 'floors' 'sqft_basement']
+396,33.541,['bathrooms' 'sqft_living' 'floors' 'sqft_above']
+112,33.5417,['sqft_living' 'floors' 'sqft_basement']
+111,33.5455,['sqft_living' 'floors' 'sqft_above']
+1145,33.5485,['bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'yr_built']
+2128,33.5488,['bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+465,33.5518,['bathrooms' 'floors' 'sqft_above' 'yr_built']
+1218,33.5522,['bathrooms' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+2022,33.553,"['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement'
+ 'yr_renovated']"
+1182,33.5547,['bathrooms' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1308,33.5572,['sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement' 'yr_renovated']
+642,33.5589,['sqft_lot' 'sqft_above' 'sqft_basement' 'yr_renovated']
+1071,33.5664,['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_basement' 'yr_renovated']
+1069,33.5675,['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'yr_renovated']
+531,33.5714,['sqft_living' 'sqft_lot' 'sqft_basement' 'yr_renovated']
+529,33.5724,['sqft_living' 'sqft_lot' 'sqft_above' 'yr_renovated']
+527,33.5731,['sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement']
+158,33.5752,['sqft_lot' 'sqft_above' 'sqft_basement']
+392,33.5767,['bathrooms' 'sqft_living' 'sqft_lot' 'yr_renovated']
+107,33.5787,['sqft_living' 'sqft_lot' 'yr_renovated']
+1067,33.581,['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above' 'sqft_basement']
+443,33.5831,['bathrooms' 'sqft_lot' 'sqft_above' 'sqft_basement']
+105,33.5855,['sqft_living' 'sqft_lot' 'sqft_basement']
+104,33.587,['sqft_living' 'sqft_lot' 'sqft_above']
+390,33.5929,['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_basement']
+389,33.5944,['bathrooms' 'sqft_living' 'sqft_lot' 'sqft_above']
+385,33.5974,['bathrooms' 'sqft_living' 'sqft_lot' 'floors']
+100,33.5976,['sqft_living' 'sqft_lot' 'floors']
+55,33.6128,['bathrooms' 'sqft_living' 'sqft_lot']
+399,33.6256,['bathrooms' 'sqft_living' 'floors' 'yr_renovated']
+114,33.6261,['sqft_living' 'floors' 'yr_renovated']
+1126,33.6517,['bathrooms' 'sqft_living' 'sqft_above' 'sqft_basement' 'yr_renovated']
+502,33.6531,['bathrooms' 'sqft_above' 'sqft_basement' 'yr_renovated']
+419,33.6644,['bathrooms' 'sqft_living' 'sqft_basement' 'yr_renovated']
+417,33.666,['bathrooms' 'sqft_living' 'sqft_above' 'yr_renovated']
+586,33.6671,['sqft_living' 'sqft_above' 'sqft_basement' 'yr_renovated']
+217,33.6685,['sqft_above' 'sqft_basement' 'yr_renovated']
+415,33.6733,['bathrooms' 'sqft_living' 'sqft_above' 'sqft_basement']
+94,33.6752,['bathrooms' 'sqft_above' 'sqft_basement']
+130,33.6756,['sqft_living' 'sqft_above' 'sqft_basement']
+134,33.6807,['sqft_living' 'sqft_basement' 'yr_renovated']
+132,33.6822,['sqft_living' 'sqft_above' 'yr_renovated']
+61,33.6846,['bathrooms' 'sqft_living' 'sqft_basement']
+60,33.6864,['bathrooms' 'sqft_living' 'sqft_above']
+63,33.6866,['bathrooms' 'sqft_living' 'yr_renovated']
+56,33.6884,['bathrooms' 'sqft_living' 'floors']
+1704,33.9293,['bedrooms' 'bathrooms' 'view' 'condition' 'sqft_above' 'yr_renovated']
+2383,33.9352,['sqft_lot' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_built']
+2152,33.9376,['bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_above' 'yr_renovated']
+2202,33.938,['bathrooms' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_renovated']
+2368,33.9463,['sqft_lot' 'floors' 'view' 'condition' 'sqft_above' 'yr_built']
+1934,33.9531,['bedrooms' 'floors' 'view' 'condition' 'sqft_above' 'yr_built']
+2404,33.9532,['floors' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_built']
+1899,33.9547,['bedrooms' 'sqft_lot' 'view' 'condition' 'sqft_above' 'yr_built']
+1437,33.9636,['sqft_lot' 'view' 'condition' 'sqft_above' 'yr_built']
+1242,33.976,['bathrooms' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1472,33.9775,['floors' 'view' 'condition' 'sqft_above' 'yr_built']
+2399,33.9792,['sqft_lot' 'view' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+2420,33.9824,['floors' 'view' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+1949,33.9976,['bedrooms' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_built']
+1487,34.0194,['waterfront' 'view' 'condition' 'sqft_above' 'yr_built']
+1627,34.02,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_above']
+2390,34.0209,['sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1883,34.0247,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_built']
+2130,34.0261,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'condition' 'sqft_above']
+1031,34.0288,['bedrooms' 'view' 'condition' 'sqft_above' 'yr_built']
+2426,34.0343,['waterfront' 'view' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+1906,34.0365,['bedrooms' 'sqft_lot' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1682,34.0377,['bedrooms' 'bathrooms' 'waterfront' 'view' 'condition' 'sqft_above']
+1965,34.0433,['bedrooms' 'view' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+701,34.0455,['view' 'condition' 'sqft_above' 'yr_built']
+1421,34.0523,['sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_built']
+1444,34.0565,['sqft_lot' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1165,34.0577,['bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_above']
+1503,34.0598,['view' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+815,34.0641,['bedrooms' 'bathrooms' 'view' 'condition' 'sqft_above']
+1956,34.0645,['bedrooms' 'waterfront' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1220,34.0648,['bathrooms' 'waterfront' 'view' 'condition' 'sqft_above']
+2187,34.069,['bathrooms' 'floors' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1918,34.0693,['bedrooms' 'floors' 'waterfront' 'view' 'sqft_above' 'yr_built']
+960,34.0706,['bedrooms' 'sqft_lot' 'view' 'sqft_above' 'yr_built']
+2352,34.0864,['sqft_lot' 'floors' 'waterfront' 'view' 'sqft_above' 'yr_built']
+1941,34.0899,['bedrooms' 'floors' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+630,34.0905,['sqft_lot' 'view' 'sqft_above' 'yr_built']
+485,34.0941,['bathrooms' 'view' 'condition' 'sqft_above']
+1015,34.0948,['bedrooms' 'waterfront' 'view' 'sqft_above' 'yr_built']
+2411,34.095,['floors' 'waterfront' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1863,34.0954,['bedrooms' 'sqft_lot' 'floors' 'view' 'sqft_above' 'yr_built']
+1494,34.0963,['waterfront' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+2375,34.0999,['sqft_lot' 'floors' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+1038,34.1045,['bedrooms' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+995,34.1121,['bedrooms' 'floors' 'view' 'sqft_above' 'yr_built']
+1456,34.1145,['floors' 'waterfront' 'view' 'sqft_above' 'yr_built']
+1401,34.1231,['sqft_lot' 'floors' 'view' 'sqft_above' 'yr_built']
+1479,34.1256,['floors' 'view' 'sqft_above' 'yr_built' 'yr_renovated']
+685,34.1258,['waterfront' 'view' 'sqft_above' 'yr_built']
+708,34.13,['view' 'sqft_above' 'yr_built' 'yr_renovated']
+370,34.1379,['bedrooms' 'view' 'sqft_above' 'yr_built']
+1662,34.1466,['bedrooms' 'bathrooms' 'floors' 'view' 'condition' 'sqft_above']
+665,34.1467,['floors' 'view' 'sqft_above' 'yr_built']
+205,34.1609,['view' 'sqft_above' 'yr_built']
+2165,34.1755,['bathrooms' 'floors' 'waterfront' 'view' 'condition' 'sqft_above']
+2110,34.1868,['bathrooms' 'sqft_lot' 'floors' 'view' 'condition' 'sqft_above']
+1200,34.2127,['bathrooms' 'floors' 'view' 'condition' 'sqft_above']
+2136,34.5332,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+1226,34.5612,['bathrooms' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+1688,34.5625,['bedrooms' 'bathrooms' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+1171,34.578,['bathrooms' 'sqft_lot' 'view' 'sqft_above' 'yr_renovated']
+1633,34.5814,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'sqft_above' 'yr_renovated']
+1151,34.5966,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above']
+1613,34.5978,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above']
+491,34.6001,['bathrooms' 'view' 'sqft_above' 'yr_renovated']
+821,34.6053,['bedrooms' 'bathrooms' 'view' 'sqft_above' 'yr_renovated']
+2171,34.6129,['bathrooms' 'floors' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+471,34.6202,['bathrooms' 'waterfront' 'view' 'sqft_above']
+801,34.6203,['bedrooms' 'bathrooms' 'waterfront' 'view' 'sqft_above']
+1668,34.6358,['bedrooms' 'bathrooms' 'floors' 'view' 'sqft_above' 'yr_renovated']
+435,34.6392,['bathrooms' 'sqft_lot' 'view' 'sqft_above']
+765,34.6411,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'sqft_above']
+1878,34.642,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'condition' 'sqft_above']
+1648,34.6471,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'view' 'sqft_above']
+2116,34.6518,['bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_above' 'yr_renovated']
+1206,34.6523,['bathrooms' 'floors' 'view' 'sqft_above' 'yr_renovated']
+1416,34.6526,['sqft_lot' 'waterfront' 'view' 'condition' 'sqft_above']
+2096,34.6548,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'sqft_above']
+86,34.6559,['bathrooms' 'view' 'sqft_above']
+251,34.6583,['bedrooms' 'bathrooms' 'view' 'sqft_above']
+1186,34.6626,['bathrooms' 'floors' 'waterfront' 'view' 'sqft_above']
+2384,34.6678,['sqft_lot' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_renovated']
+955,34.6722,['bedrooms' 'sqft_lot' 'view' 'condition' 'sqft_above']
+1598,34.6786,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_above']
+625,34.6805,['sqft_lot' 'view' 'condition' 'sqft_above']
+786,34.6845,['bedrooms' 'bathrooms' 'floors' 'view' 'sqft_above']
+1900,34.697,['bedrooms' 'sqft_lot' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1136,34.6988,['bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_above']
+456,34.7016,['bathrooms' 'floors' 'view' 'sqft_above']
+1438,34.7051,['sqft_lot' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1010,34.7092,['bedrooms' 'waterfront' 'view' 'condition' 'sqft_above']
+1950,34.7197,['bedrooms' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_renovated']
+680,34.7278,['waterfront' 'view' 'condition' 'sqft_above']
+365,34.7345,['bedrooms' 'view' 'condition' 'sqft_above']
+1488,34.7411,['waterfront' 'view' 'condition' 'sqft_above' 'yr_renovated']
+200,34.7487,['view' 'condition' 'sqft_above']
+1032,34.7582,['bedrooms' 'view' 'condition' 'sqft_above' 'yr_renovated']
+702,34.7738,['view' 'condition' 'sqft_above' 'yr_renovated']
+2369,34.79,['sqft_lot' 'floors' 'view' 'condition' 'sqft_above' 'yr_renovated']
+2405,34.7933,['floors' 'waterfront' 'view' 'condition' 'sqft_above' 'yr_renovated']
+2347,34.7967,['sqft_lot' 'floors' 'waterfront' 'view' 'condition' 'sqft_above']
+1935,34.8132,['bedrooms' 'floors' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1913,34.8278,['bedrooms' 'floors' 'waterfront' 'view' 'condition' 'sqft_above']
+1858,34.8291,['bedrooms' 'sqft_lot' 'floors' 'view' 'condition' 'sqft_above']
+1473,34.8302,['floors' 'view' 'condition' 'sqft_above' 'yr_renovated']
+1396,34.8363,['sqft_lot' 'floors' 'view' 'condition' 'sqft_above']
+1451,34.8503,['floors' 'waterfront' 'view' 'condition' 'sqft_above']
+990,34.8626,['bedrooms' 'floors' 'view' 'condition' 'sqft_above']
+660,34.8783,['floors' 'view' 'condition' 'sqft_above']
+1694,34.9148,"['bedrooms' 'bathrooms' 'waterfront' 'condition' 'sqft_above'
+ 'yr_renovated']"
+2142,34.9557,"['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above'
+ 'yr_renovated']"
+1232,34.97,['bathrooms' 'waterfront' 'condition' 'sqft_above' 'yr_renovated']
+1889,35.0181,['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+1924,35.0207,['bedrooms' 'floors' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+1427,35.0381,['sqft_lot' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+2358,35.0386,['sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+1462,35.0601,['floors' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+2394,35.0722,"['sqft_lot' 'waterfront' 'condition' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+2177,35.073,['bathrooms' 'floors' 'waterfront' 'condition' 'sqft_above' 'yr_renovated']
+1021,35.075,['bedrooms' 'waterfront' 'condition' 'sqft_above' 'yr_built']
+2415,35.0866,['floors' 'waterfront' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+691,35.1026,['waterfront' 'condition' 'sqft_above' 'yr_built']
+1960,35.1116,"['bedrooms' 'waterfront' 'condition' 'sqft_above' 'yr_built'
+ 'yr_renovated']"
+1896,35.1277,['bedrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+941,35.1308,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above']
+1884,35.1326,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+1498,35.141,['waterfront' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+1617,35.1467,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above']
+805,35.1533,['bedrooms' 'bathrooms' 'waterfront' 'condition' 'sqft_above']
+950,35.1573,['bedrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_built']
+1028,35.1598,['bedrooms' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+1931,35.1682,['bedrooms' 'floors' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+351,35.1687,['bedrooms' 'waterfront' 'view' 'sqft_above']
+1155,35.1715,['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above']
+1016,35.1722,['bedrooms' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+1434,35.1761,['sqft_lot' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+475,35.1789,['bathrooms' 'waterfront' 'condition' 'sqft_above']
+1422,35.1796,['sqft_lot' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+611,35.1849,['sqft_lot' 'waterfront' 'view' 'sqft_above']
+315,35.1888,['bedrooms' 'sqft_lot' 'view' 'sqft_above']
+961,35.1888,['bedrooms' 'sqft_lot' 'view' 'sqft_above' 'yr_renovated']
+985,35.1897,['bedrooms' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+360,35.1899,['bedrooms' 'waterfront' 'sqft_above' 'yr_built']
+1853,35.1964,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+1639,35.2039,['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'sqft_above' 'yr_renovated']
+620,35.2058,['sqft_lot' 'waterfront' 'sqft_above' 'yr_built']
+827,35.2058,['bedrooms' 'bathrooms' 'condition' 'sqft_above' 'yr_renovated']
+1652,35.2102,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'condition' 'sqft_above']
+698,35.2109,['waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+41,35.2217,['bedrooms' 'view' 'sqft_above']
+371,35.2252,['bedrooms' 'view' 'sqft_above' 'yr_renovated']
+186,35.2295,['waterfront' 'view' 'sqft_above']
+631,35.2299,['sqft_lot' 'view' 'sqft_above' 'yr_renovated']
+686,35.2306,['waterfront' 'view' 'sqft_above' 'yr_renovated']
+2365,35.2328,['sqft_lot' 'floors' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+150,35.2335,['sqft_lot' 'view' 'sqft_above']
+1469,35.2341,['floors' 'waterfront' 'sqft_above' 'yr_built' 'yr_renovated']
+195,35.2414,['waterfront' 'sqft_above' 'yr_built']
+1177,35.2561,['bathrooms' 'sqft_lot' 'condition' 'sqft_above' 'yr_renovated']
+655,35.2566,['floors' 'waterfront' 'sqft_above' 'yr_built']
+1391,35.2567,['sqft_lot' 'floors' 'waterfront' 'sqft_above' 'yr_built']
+2100,35.2633,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_above']
+497,35.2693,['bathrooms' 'condition' 'sqft_above' 'yr_renovated']
+1190,35.2741,['bathrooms' 'floors' 'waterfront' 'condition' 'sqft_above']
+206,35.2769,['view' 'sqft_above' 'yr_renovated']
+2117,35.2877,['bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_built']
+2188,35.2975,['bathrooms' 'floors' 'view' 'condition' 'sqft_basement' 'yr_built']
+1674,35.3009,['bedrooms' 'bathrooms' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+1844,35.3011,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'sqft_above']
+1869,35.3144,['bedrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_built']
+966,35.3158,['bedrooms' 'sqft_lot' 'condition' 'sqft_above' 'yr_built']
+2172,35.3171,['bathrooms' 'floors' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1001,35.3203,['bedrooms' 'floors' 'condition' 'sqft_above' 'yr_built']
+1919,35.3208,['bedrooms' 'floors' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+1669,35.3275,['bedrooms' 'bathrooms' 'floors' 'view' 'sqft_basement' 'yr_built']
+976,35.3281,['bedrooms' 'floors' 'waterfront' 'view' 'sqft_above']
+2353,35.3296,['sqft_lot' 'floors' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+636,35.3297,['sqft_lot' 'condition' 'sqft_above' 'yr_built']
+1207,35.3327,['bathrooms' 'floors' 'view' 'sqft_basement' 'yr_built']
+1407,35.3338,['sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_built']
+1382,35.335,['sqft_lot' 'floors' 'waterfront' 'view' 'sqft_above']
+2194,35.3351,['bathrooms' 'floors' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+671,35.3477,['floors' 'condition' 'sqft_above' 'yr_built']
+1945,35.3479,['bedrooms' 'floors' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+1910,35.3522,['bedrooms' 'sqft_lot' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+2379,35.354,['sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+1864,35.3576,['bedrooms' 'sqft_lot' 'floors' 'view' 'sqft_above' 'yr_renovated']
+926,35.3645,['bedrooms' 'sqft_lot' 'floors' 'view' 'sqft_above']
+1448,35.3647,['sqft_lot' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+376,35.3667,['bedrooms' 'condition' 'sqft_above' 'yr_built']
+1457,35.3692,['floors' 'waterfront' 'view' 'sqft_above' 'yr_renovated']
+646,35.3716,['floors' 'waterfront' 'view' 'sqft_above']
+1483,35.3741,['floors' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+996,35.3817,['bedrooms' 'floors' 'view' 'sqft_above' 'yr_renovated']
+336,35.3857,['bedrooms' 'floors' 'view' 'sqft_above']
+2122,35.3867,['bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+211,35.387,['condition' 'sqft_above' 'yr_built']
+1212,35.3885,['bathrooms' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+1402,35.3905,['sqft_lot' 'floors' 'view' 'sqft_above' 'yr_renovated']
+596,35.3948,['sqft_lot' 'floors' 'view' 'sqft_above']
+1042,35.4066,['bedrooms' 'condition' 'sqft_above' 'yr_built' 'yr_renovated']
+666,35.4238,['floors' 'view' 'sqft_above' 'yr_renovated']
+171,35.4244,['floors' 'view' 'sqft_above']
+712,35.4265,['condition' 'sqft_above' 'yr_built' 'yr_renovated']
+973,35.4517,['bedrooms' 'sqft_lot' 'sqft_above' 'yr_built' 'yr_renovated']
+769,35.4613,['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'sqft_above']
+255,35.4626,['bedrooms' 'bathrooms' 'condition' 'sqft_above']
+383,35.4738,['bedrooms' 'sqft_above' 'yr_built' 'yr_renovated']
+324,35.4821,['bedrooms' 'sqft_lot' 'sqft_above' 'yr_built']
+1008,35.4879,['bedrooms' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+439,35.4921,['bathrooms' 'sqft_lot' 'condition' 'sqft_above']
+1600,35.4926,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'view' 'yr_built']
+90,35.494,['bathrooms' 'condition' 'sqft_above']
+643,35.4958,['sqft_lot' 'sqft_above' 'yr_built' 'yr_renovated']
+1650,35.5033,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'view' 'yr_built']
+1876,35.5036,['bedrooms' 'sqft_lot' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+1664,35.5036,['bedrooms' 'bathrooms' 'floors' 'view' 'condition' 'yr_built']
+2112,35.5045,['bathrooms' 'sqft_lot' 'floors' 'view' 'condition' 'yr_built']
+50,35.5049,['bedrooms' 'sqft_above' 'yr_built']
+345,35.5112,['bedrooms' 'floors' 'sqft_above' 'yr_built']
+1602,35.5201,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above']
+218,35.5209,['sqft_above' 'yr_built' 'yr_renovated']
+2098,35.5209,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'yr_built']
+935,35.5265,['bedrooms' 'sqft_lot' 'floors' 'sqft_above' 'yr_built']
+159,35.5265,['sqft_lot' 'sqft_above' 'yr_built']
+790,35.5291,['bedrooms' 'bathrooms' 'floors' 'condition' 'sqft_above']
+2167,35.5293,['bathrooms' 'floors' 'waterfront' 'view' 'condition' 'yr_built']
+788,35.5325,['bedrooms' 'bathrooms' 'floors' 'view' 'yr_built']
+1671,35.5328,['bedrooms' 'bathrooms' 'floors' 'view' 'yr_built' 'yr_renovated']
+2119,35.5394,['bathrooms' 'sqft_lot' 'floors' 'view' 'yr_built' 'yr_renovated']
+1138,35.5409,['bathrooms' 'sqft_lot' 'floors' 'view' 'yr_built']
+2190,35.5441,['bathrooms' 'floors' 'view' 'condition' 'yr_built' 'yr_renovated']
+1202,35.5446,['bathrooms' 'floors' 'view' 'condition' 'yr_built']
+678,35.5455,['floors' 'sqft_above' 'yr_built' 'yr_renovated']
+1414,35.5546,['sqft_lot' 'floors' 'sqft_above' 'yr_built' 'yr_renovated']
+2174,35.5608,['bathrooms' 'floors' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+1188,35.5623,['bathrooms' 'floors' 'waterfront' 'view' 'yr_built']
+180,35.5704,['floors' 'sqft_above' 'yr_built']
+605,35.5792,['sqft_lot' 'floors' 'sqft_above' 'yr_built']
+1209,35.5815,['bathrooms' 'floors' 'view' 'yr_built' 'yr_renovated']
+458,35.5824,['bathrooms' 'floors' 'view' 'yr_built']
+1140,35.5884,['bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above']
+460,35.6001,['bathrooms' 'floors' 'condition' 'sqft_above']
+481,35.752,['bathrooms' 'waterfront' 'sqft_above' 'yr_renovated']
+811,35.7548,['bedrooms' 'bathrooms' 'waterfront' 'sqft_above' 'yr_renovated']
+1161,35.755,['bathrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_renovated']
+1623,35.7586,"['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'sqft_above'
+ 'yr_renovated']"
+1658,35.7662,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'sqft_above' 'yr_renovated']
+2106,35.7848,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above' 'yr_renovated']
+1196,35.7914,['bathrooms' 'floors' 'waterfront' 'sqft_above' 'yr_renovated']
+1615,35.827,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'view' 'yr_built']
+2137,35.8371,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1689,35.847,['bedrooms' 'bathrooms' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+803,35.8504,['bedrooms' 'bathrooms' 'waterfront' 'view' 'yr_built']
+1691,35.8506,['bedrooms' 'bathrooms' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+1634,35.852,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'sqft_basement' 'yr_built']
+2139,35.8537,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+1153,35.8542,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'yr_built']
+1172,35.8547,['bathrooms' 'sqft_lot' 'view' 'sqft_basement' 'yr_built']
+2159,35.8547,['bathrooms' 'sqft_lot' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+767,35.8554,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'yr_built']
+1636,35.8559,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'yr_built' 'yr_renovated']
+2209,35.8566,['bathrooms' 'waterfront' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+1227,35.8567,['bathrooms' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+2153,35.8588,['bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_basement' 'yr_built']
+2203,35.8636,['bathrooms' 'waterfront' 'view' 'condition' 'sqft_basement' 'yr_built']
+1593,35.8641,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above']
+781,35.8641,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'sqft_above']
+2132,35.866,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'condition' 'yr_built']
+1629,35.8665,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'condition' 'yr_built']
+1684,35.8673,['bedrooms' 'bathrooms' 'waterfront' 'view' 'condition' 'yr_built']
+1711,35.8722,['bedrooms' 'bathrooms' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+822,35.8723,['bedrooms' 'bathrooms' 'view' 'sqft_basement' 'yr_built']
+492,35.8752,['bathrooms' 'view' 'sqft_basement' 'yr_built']
+1249,35.8752,['bathrooms' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+437,35.8757,['bathrooms' 'sqft_lot' 'view' 'yr_built']
+1174,35.8758,['bathrooms' 'sqft_lot' 'view' 'yr_built' 'yr_renovated']
+1705,35.8761,['bedrooms' 'bathrooms' 'view' 'condition' 'sqft_basement' 'yr_built']
+2218,35.8774,['bathrooms' 'view' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+1243,35.8786,['bathrooms' 'view' 'condition' 'sqft_basement' 'yr_built']
+253,35.879,['bedrooms' 'bathrooms' 'view' 'yr_built']
+824,35.8794,['bedrooms' 'bathrooms' 'view' 'yr_built' 'yr_renovated']
+1229,35.8799,['bathrooms' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+473,35.8803,['bathrooms' 'waterfront' 'view' 'yr_built']
+2155,35.8805,['bathrooms' 'sqft_lot' 'view' 'condition' 'yr_built' 'yr_renovated']
+451,35.8819,['bathrooms' 'floors' 'waterfront' 'sqft_above']
+1167,35.882,['bathrooms' 'sqft_lot' 'view' 'condition' 'yr_built']
+1131,35.885,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above']
+1707,35.8878,['bedrooms' 'bathrooms' 'view' 'condition' 'yr_built' 'yr_renovated']
+2205,35.8884,['bathrooms' 'waterfront' 'view' 'condition' 'yr_built' 'yr_renovated']
+817,35.8888,['bedrooms' 'bathrooms' 'view' 'condition' 'yr_built']
+1222,35.8902,['bathrooms' 'waterfront' 'view' 'condition' 'yr_built']
+88,35.9015,['bathrooms' 'view' 'yr_built']
+494,35.9017,['bathrooms' 'view' 'yr_built' 'yr_renovated']
+1245,35.9041,['bathrooms' 'view' 'condition' 'yr_built' 'yr_renovated']
+487,35.9059,['bathrooms' 'view' 'condition' 'yr_built']
+430,35.908,['bathrooms' 'sqft_lot' 'waterfront' 'sqft_above']
+760,35.9108,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'sqft_above']
+81,35.9123,['bathrooms' 'waterfront' 'sqft_above']
+246,35.9144,['bedrooms' 'bathrooms' 'waterfront' 'sqft_above']
+1890,35.9376,"['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above'
+ 'yr_renovated']"
+1428,35.9469,['sqft_lot' 'waterfront' 'condition' 'sqft_above' 'yr_renovated']
+945,35.9714,['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_above']
+615,35.9883,['sqft_lot' 'waterfront' 'condition' 'sqft_above']
+1022,35.9899,['bedrooms' 'waterfront' 'condition' 'sqft_above' 'yr_renovated']
+2107,35.9993,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+692,36.0024,['waterfront' 'condition' 'sqft_above' 'yr_renovated']
+355,36.0099,['bedrooms' 'waterfront' 'condition' 'sqft_above']
+190,36.0303,['waterfront' 'condition' 'sqft_above']
+2178,36.0437,['bathrooms' 'floors' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+2359,36.0451,['sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_above' 'yr_renovated']
+1925,36.0598,['bedrooms' 'floors' 'waterfront' 'condition' 'sqft_above' 'yr_renovated']
+1197,36.0716,['bathrooms' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+2184,36.0726,"['bathrooms' 'floors' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1659,36.0731,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+1463,36.0749,['floors' 'waterfront' 'condition' 'sqft_above' 'yr_renovated']
+96,36.1136,['bathrooms' 'sqft_above' 'yr_renovated']
+445,36.1181,['bathrooms' 'sqft_lot' 'sqft_above' 'yr_renovated']
+1608,36.1192,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'yr_renovated']
+261,36.1225,['bedrooms' 'bathrooms' 'sqft_above' 'yr_renovated']
+1848,36.1246,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_above']
+775,36.1262,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_above' 'yr_renovated']
+796,36.1291,['bedrooms' 'bathrooms' 'floors' 'sqft_above' 'yr_renovated']
+1386,36.1339,['sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_above']
+1146,36.1479,['bathrooms' 'sqft_lot' 'floors' 'sqft_above' 'yr_renovated']
+980,36.1528,['bedrooms' 'floors' 'waterfront' 'condition' 'sqft_above']
+466,36.1555,['bathrooms' 'floors' 'sqft_above' 'yr_renovated']
+650,36.1711,['floors' 'waterfront' 'condition' 'sqft_above']
+2123,36.2255,['bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_basement' 'yr_built']
+754,36.2344,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'sqft_above']
+240,36.2355,['bedrooms' 'bathrooms' 'floors' 'sqft_above']
+75,36.2566,['bathrooms' 'floors' 'sqft_above']
+2129,36.2566,['bathrooms' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built' 'yr_renovated']
+1147,36.2574,['bathrooms' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built']
+424,36.2583,['bathrooms' 'sqft_lot' 'floors' 'sqft_above']
+967,36.2612,['bedrooms' 'sqft_lot' 'condition' 'sqft_above' 'yr_renovated']
+637,36.2692,['sqft_lot' 'condition' 'sqft_above' 'yr_renovated']
+68,36.2724,['bathrooms' 'sqft_lot' 'sqft_above']
+1609,36.2829,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built']
+6,36.2835,['bedrooms' 'bathrooms' 'sqft_above']
+233,36.285,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_above']
+2198,36.2862,"['bathrooms' 'floors' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+319,36.2931,['bedrooms' 'sqft_lot' 'condition' 'sqft_above']
+1213,36.304,['bathrooms' 'floors' 'condition' 'sqft_basement' 'yr_built']
+154,36.3049,['sqft_lot' 'condition' 'sqft_above']
+377,36.3101,['bedrooms' 'condition' 'sqft_above' 'yr_renovated']
+212,36.32,['condition' 'sqft_above' 'yr_renovated']
+2189,36.3201,['bathrooms' 'floors' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+45,36.3323,['bedrooms' 'condition' 'sqft_above']
+1675,36.3337,['bedrooms' 'bathrooms' 'floors' 'condition' 'sqft_basement' 'yr_built']
+1219,36.3345,['bathrooms' 'floors' 'sqft_basement' 'yr_built' 'yr_renovated']
+467,36.3366,['bathrooms' 'floors' 'sqft_basement' 'yr_built']
+1681,36.36,['bedrooms' 'bathrooms' 'floors' 'sqft_basement' 'yr_built' 'yr_renovated']
+797,36.3615,['bedrooms' 'bathrooms' 'floors' 'sqft_basement' 'yr_built']
+1595,36.3627,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'waterfront' 'yr_built']
+1870,36.3731,['bedrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+1408,36.382,['sqft_lot' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+1002,36.3951,['bedrooms' 'floors' 'condition' 'sqft_above' 'yr_renovated']
+672,36.4088,['floors' 'condition' 'sqft_above' 'yr_renovated']
+2109,36.4094,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+2102,36.4175,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'condition' 'yr_built']
+1133,36.4176,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'yr_built']
+1661,36.4267,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+783,36.4358,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'yr_built']
+1654,36.436,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'condition' 'yr_built']
+930,36.4569,['bedrooms' 'sqft_lot' 'floors' 'condition' 'sqft_above']
+600,36.4619,['sqft_lot' 'floors' 'condition' 'sqft_above']
+2180,36.4699,['bathrooms' 'floors' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+1199,36.485,['bathrooms' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+340,36.4884,['bedrooms' 'floors' 'condition' 'sqft_above']
+453,36.4932,['bathrooms' 'floors' 'waterfront' 'yr_built']
+1192,36.4943,['bathrooms' 'floors' 'waterfront' 'condition' 'yr_built']
+2166,36.4986,['bathrooms' 'floors' 'waterfront' 'view' 'condition' 'sqft_basement']
+175,36.4987,['floors' 'condition' 'sqft_above']
+2111,36.5064,['bathrooms' 'sqft_lot' 'floors' 'view' 'condition' 'sqft_basement']
+1663,36.5112,['bedrooms' 'bathrooms' 'floors' 'view' 'condition' 'sqft_basement']
+1201,36.5305,['bathrooms' 'floors' 'view' 'condition' 'sqft_basement']
+951,36.5545,['bedrooms' 'sqft_lot' 'waterfront' 'sqft_above' 'yr_renovated']
+361,36.5672,['bedrooms' 'waterfront' 'sqft_above' 'yr_renovated']
+310,36.5932,['bedrooms' 'sqft_lot' 'waterfront' 'sqft_above']
+1604,36.5968,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'condition' 'yr_built']
+1611,36.5985,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'yr_built' 'yr_renovated']
+2125,36.6008,['bathrooms' 'sqft_lot' 'floors' 'condition' 'yr_built' 'yr_renovated']
+756,36.6035,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'yr_built']
+36,36.6065,['bedrooms' 'waterfront' 'sqft_above']
+2173,36.6134,['bathrooms' 'floors' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+1162,36.6148,['bathrooms' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_built']
+2149,36.6152,"['bathrooms' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1624,36.6167,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_built']
+2143,36.6209,"['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_built']"
+2118,36.6228,['bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+1670,36.6235,['bedrooms' 'bathrooms' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+1142,36.6236,['bathrooms' 'sqft_lot' 'floors' 'condition' 'yr_built']
+1149,36.626,['bathrooms' 'sqft_lot' 'floors' 'yr_built' 'yr_renovated']
+426,36.6312,['bathrooms' 'sqft_lot' 'floors' 'yr_built']
+621,36.6419,['sqft_lot' 'waterfront' 'sqft_above' 'yr_renovated']
+1208,36.6478,['bathrooms' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+1677,36.6524,['bedrooms' 'bathrooms' 'floors' 'condition' 'yr_built' 'yr_renovated']
+1239,36.6637,['bathrooms' 'waterfront' 'sqft_basement' 'yr_built' 'yr_renovated']
+482,36.6637,['bathrooms' 'waterfront' 'sqft_basement' 'yr_built']
+196,36.6639,['waterfront' 'sqft_above' 'yr_renovated']
+812,36.6652,['bedrooms' 'bathrooms' 'waterfront' 'sqft_basement' 'yr_built']
+1701,36.6656,"['bedrooms' 'bathrooms' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1233,36.6668,['bathrooms' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+1649,36.6671,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'view' 'sqft_basement']
+2213,36.6682,"['bathrooms' 'waterfront' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1695,36.6694,"['bedrooms' 'bathrooms' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_built']"
+145,36.6705,['sqft_lot' 'waterfront' 'sqft_above']
+792,36.6752,['bedrooms' 'bathrooms' 'floors' 'condition' 'yr_built']
+799,36.6758,['bedrooms' 'bathrooms' 'floors' 'yr_built' 'yr_renovated']
+1215,36.6784,['bathrooms' 'floors' 'condition' 'yr_built' 'yr_renovated']
+1665,36.679,['bedrooms' 'bathrooms' 'floors' 'view' 'condition' 'yr_renovated']
+242,36.6805,['bedrooms' 'bathrooms' 'floors' 'yr_built']
+2097,36.6866,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'sqft_basement']
+1626,36.6883,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'yr_built' 'yr_renovated']
+762,36.6911,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'yr_built']
+1599,36.6976,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_basement']
+462,36.7041,['bathrooms' 'floors' 'condition' 'yr_built']
+469,36.7052,['bathrooms' 'floors' 'yr_built' 'yr_renovated']
+1187,36.7088,['bathrooms' 'floors' 'waterfront' 'view' 'sqft_basement']
+77,36.7091,['bathrooms' 'floors' 'yr_built']
+2204,36.7121,"['bathrooms' 'waterfront' 'view' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+2154,36.7142,['bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+1164,36.7174,['bathrooms' 'sqft_lot' 'waterfront' 'yr_built' 'yr_renovated']
+1706,36.7203,['bedrooms' 'bathrooms' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+432,36.7205,['bathrooms' 'sqft_lot' 'waterfront' 'yr_built']
+787,36.7207,['bedrooms' 'bathrooms' 'floors' 'view' 'sqft_basement']
+2113,36.7228,['bathrooms' 'sqft_lot' 'floors' 'view' 'condition' 'yr_renovated']
+1619,36.7229,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'condition' 'yr_built']
+1137,36.7274,['bathrooms' 'sqft_lot' 'floors' 'view' 'sqft_basement']
+1244,36.7296,['bathrooms' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+1854,36.7312,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above' 'yr_renovated']
+2168,36.7383,['bathrooms' 'floors' 'waterfront' 'view' 'condition' 'yr_renovated']
+986,36.7432,['bedrooms' 'floors' 'waterfront' 'sqft_above' 'yr_renovated']
+814,36.7471,['bedrooms' 'bathrooms' 'waterfront' 'yr_built' 'yr_renovated']
+2145,36.7489,['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+1157,36.7498,['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'yr_built']
+1203,36.7502,['bathrooms' 'floors' 'view' 'condition' 'yr_renovated']
+248,36.7508,['bedrooms' 'bathrooms' 'waterfront' 'yr_built']
+457,36.7508,['bathrooms' 'floors' 'view' 'sqft_basement']
+921,36.7563,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_above']
+331,36.7682,['bedrooms' 'floors' 'waterfront' 'sqft_above']
+484,36.7776,['bathrooms' 'waterfront' 'yr_built' 'yr_renovated']
+1697,36.781,['bedrooms' 'bathrooms' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+83,36.7817,['bathrooms' 'waterfront' 'yr_built']
+807,36.7832,['bedrooms' 'bathrooms' 'waterfront' 'condition' 'yr_built']
+1683,36.7905,['bedrooms' 'bathrooms' 'waterfront' 'view' 'condition' 'sqft_basement']
+1392,36.795,['sqft_lot' 'floors' 'waterfront' 'sqft_above' 'yr_renovated']
+2131,36.798,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'condition' 'sqft_basement']
+1235,36.8087,['bathrooms' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+1628,36.8104,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_basement']
+477,36.8114,['bathrooms' 'waterfront' 'condition' 'yr_built']
+1221,36.8132,['bathrooms' 'waterfront' 'view' 'condition' 'sqft_basement']
+591,36.8136,['sqft_lot' 'floors' 'waterfront' 'sqft_above']
+656,36.8155,['floors' 'waterfront' 'sqft_above' 'yr_renovated']
+816,36.8238,['bedrooms' 'bathrooms' 'view' 'condition' 'sqft_basement']
+1166,36.8253,['bathrooms' 'sqft_lot' 'view' 'condition' 'sqft_basement']
+1690,36.8281,['bedrooms' 'bathrooms' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+1685,36.8317,['bedrooms' 'bathrooms' 'waterfront' 'view' 'condition' 'yr_renovated']
+1630,36.832,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'condition' 'yr_renovated']
+166,36.8354,['floors' 'waterfront' 'sqft_above']
+486,36.8389,['bathrooms' 'view' 'condition' 'sqft_basement']
+2138,36.8403,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+818,36.8498,['bedrooms' 'bathrooms' 'view' 'condition' 'yr_renovated']
+1635,36.8505,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'sqft_basement' 'yr_renovated']
+1228,36.8574,['bathrooms' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+2133,36.8598,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'condition' 'yr_renovated']
+1178,36.862,['bathrooms' 'sqft_lot' 'condition' 'sqft_basement' 'yr_built']
+446,36.8646,['bathrooms' 'sqft_lot' 'sqft_basement' 'yr_built']
+2163,36.8663,"['bathrooms' 'sqft_lot' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+823,36.8664,['bedrooms' 'bathrooms' 'view' 'sqft_basement' 'yr_renovated']
+1184,36.8668,['bathrooms' 'sqft_lot' 'sqft_basement' 'yr_built' 'yr_renovated']
+1614,36.8702,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_basement']
+1168,36.8702,['bathrooms' 'sqft_lot' 'view' 'condition' 'yr_renovated']
+1173,36.8703,['bathrooms' 'sqft_lot' 'view' 'sqft_basement' 'yr_renovated']
+1597,36.875,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'view' 'condition']
+1223,36.8785,['bathrooms' 'waterfront' 'view' 'condition' 'yr_renovated']
+1640,36.8837,['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'sqft_basement' 'yr_built']
+802,36.8849,['bedrooms' 'bathrooms' 'waterfront' 'view' 'sqft_basement']
+1647,36.8853,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'view' 'condition']
+776,36.8861,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_basement' 'yr_built']
+493,36.8864,['bathrooms' 'view' 'sqft_basement' 'yr_renovated']
+1646,36.888,"['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+488,36.8886,['bathrooms' 'view' 'condition' 'yr_renovated']
+785,36.9015,['bedrooms' 'bathrooms' 'floors' 'view' 'condition']
+1152,36.9117,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_basement']
+498,36.9137,['bathrooms' 'condition' 'sqft_basement' 'yr_built']
+1253,36.9162,['bathrooms' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+778,36.9186,['bedrooms' 'bathrooms' 'sqft_lot' 'yr_built' 'yr_renovated']
+766,36.9188,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'sqft_basement']
+97,36.9193,['bathrooms' 'sqft_basement' 'yr_built']
+235,36.9203,['bedrooms' 'bathrooms' 'sqft_lot' 'yr_built']
+504,36.9212,['bathrooms' 'sqft_basement' 'yr_built' 'yr_renovated']
+472,36.9245,['bathrooms' 'waterfront' 'view' 'sqft_basement']
+325,36.9292,['bedrooms' 'sqft_lot' 'sqft_above' 'yr_renovated']
+448,36.9294,['bathrooms' 'sqft_lot' 'yr_built' 'yr_renovated']
+252,36.9313,['bedrooms' 'bathrooms' 'view' 'sqft_basement']
+70,36.9319,['bathrooms' 'sqft_lot' 'yr_built']
+828,36.9354,['bedrooms' 'bathrooms' 'condition' 'sqft_basement' 'yr_built']
+262,36.9389,['bedrooms' 'bathrooms' 'sqft_basement' 'yr_built']
+1715,36.9405,"['bedrooms' 'bathrooms' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+771,36.9409,['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'yr_built']
+834,36.9416,['bedrooms' 'bathrooms' 'sqft_basement' 'yr_built' 'yr_renovated']
+2095,36.9426,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'condition']
+1642,36.9426,['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'yr_built' 'yr_renovated']
+51,36.9462,['bedrooms' 'sqft_above' 'yr_renovated']
+436,36.9481,['bathrooms' 'sqft_lot' 'view' 'sqft_basement']
+441,36.9497,['bathrooms' 'sqft_lot' 'condition' 'yr_built']
+1180,36.95,['bathrooms' 'sqft_lot' 'condition' 'yr_built' 'yr_renovated']
+1612,36.9543,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'view' 'condition']
+1135,36.9567,['bathrooms' 'sqft_lot' 'floors' 'view' 'condition']
+87,36.9601,['bathrooms' 'view' 'sqft_basement']
+23,36.9625,['bedrooms' 'sqft_lot' 'sqft_above']
+1185,36.9676,['bathrooms' 'floors' 'waterfront' 'view' 'condition']
+764,36.9732,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'condition']
+800,36.9766,['bedrooms' 'bathrooms' 'waterfront' 'view' 'condition']
+455,36.9794,['bathrooms' 'floors' 'view' 'condition']
+264,36.9842,['bedrooms' 'bathrooms' 'yr_built' 'yr_renovated']
+8,36.9864,['bedrooms' 'bathrooms' 'yr_built']
+250,36.9943,['bedrooms' 'bathrooms' 'view' 'condition']
+99,36.995,['bathrooms' 'yr_built' 'yr_renovated']
+1651,36.9972,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'view' 'yr_renovated']
+1601,36.9979,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'view' 'yr_renovated']
+830,37.0077,['bedrooms' 'bathrooms' 'condition' 'yr_built' 'yr_renovated']
+257,37.0086,['bedrooms' 'bathrooms' 'condition' 'yr_built']
+160,37.01,['sqft_lot' 'sqft_above' 'yr_renovated']
+500,37.0155,['bathrooms' 'condition' 'yr_built' 'yr_renovated']
+92,37.0183,['bathrooms' 'condition' 'yr_built']
+789,37.0191,['bedrooms' 'bathrooms' 'floors' 'view' 'yr_renovated']
+1150,37.0214,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'condition']
+1616,37.0225,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'view' 'yr_renovated']
+434,37.0361,['bathrooms' 'sqft_lot' 'view' 'condition']
+804,37.0415,['bedrooms' 'bathrooms' 'waterfront' 'view' 'yr_renovated']
+470,37.0421,['bathrooms' 'waterfront' 'view' 'condition']
+768,37.0488,['bedrooms' 'bathrooms' 'sqft_lot' 'view' 'yr_renovated']
+85,37.0541,['bathrooms' 'view' 'condition']
+254,37.0663,['bedrooms' 'bathrooms' 'view' 'yr_renovated']
+2099,37.1003,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'yr_renovated']
+1591,37.1074,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'waterfront' 'view']
+1139,37.1134,['bathrooms' 'sqft_lot' 'floors' 'view' 'yr_renovated']
+1189,37.1172,['bathrooms' 'floors' 'waterfront' 'view' 'yr_renovated']
+936,37.1249,['bedrooms' 'sqft_lot' 'floors' 'sqft_above' 'yr_renovated']
+459,37.1296,['bathrooms' 'floors' 'view' 'yr_renovated']
+1154,37.131,['bathrooms' 'sqft_lot' 'waterfront' 'view' 'yr_renovated']
+758,37.1312,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'view']
+779,37.1314,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'view']
+752,37.1341,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'view']
+346,37.1345,['bedrooms' 'floors' 'sqft_above' 'yr_renovated']
+474,37.1465,['bathrooms' 'waterfront' 'view' 'yr_renovated']
+438,37.1468,['bathrooms' 'sqft_lot' 'view' 'yr_renovated']
+304,37.1479,['bedrooms' 'sqft_lot' 'floors' 'sqft_above']
+244,37.1524,['bedrooms' 'bathrooms' 'waterfront' 'view']
+2179,37.1525,"['bathrooms' 'floors' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+238,37.1561,['bedrooms' 'bathrooms' 'floors' 'view']
+30,37.1563,['bedrooms' 'floors' 'sqft_above']
+231,37.1602,['bedrooms' 'bathrooms' 'sqft_lot' 'view']
+89,37.161,['bathrooms' 'view' 'yr_renovated']
+4,37.1783,['bedrooms' 'bathrooms' 'view']
+606,37.1795,['sqft_lot' 'floors' 'sqft_above' 'yr_renovated']
+181,37.194,['floors' 'sqft_above' 'yr_renovated']
+139,37.2008,['sqft_lot' 'floors' 'sqft_above']
+1129,37.2346,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'view']
+428,37.2452,['bathrooms' 'sqft_lot' 'waterfront' 'view']
+449,37.2506,['bathrooms' 'floors' 'waterfront' 'view']
+422,37.2514,['bathrooms' 'sqft_lot' 'floors' 'view']
+79,37.2601,['bathrooms' 'waterfront' 'view']
+66,37.2645,['bathrooms' 'sqft_lot' 'view']
+73,37.2681,['bathrooms' 'floors' 'view']
+2101,37.3307,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_basement']
+1653,37.3586,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'condition' 'sqft_basement']
+1191,37.3747,['bathrooms' 'floors' 'waterfront' 'condition' 'sqft_basement']
+2124,37.3798,"['bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1865,37.4242,['bedrooms' 'sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_built']
+1214,37.4359,['bathrooms' 'floors' 'condition' 'sqft_basement' 'yr_renovated']
+2108,37.4434,"['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+1676,37.4505,"['bedrooms' 'bathrooms' 'floors' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1660,37.4819,"['bedrooms' 'bathrooms' 'floors' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+1198,37.5031,['bathrooms' 'floors' 'waterfront' 'sqft_basement' 'yr_renovated']
+1936,37.5139,['bedrooms' 'floors' 'view' 'condition' 'sqft_basement' 'yr_built']
+1920,37.5141,['bedrooms' 'floors' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1594,37.5193,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement']
+1132,37.5422,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement']
+1942,37.5577,['bedrooms' 'floors' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+997,37.5588,['bedrooms' 'floors' 'view' 'sqft_basement' 'yr_built']
+2144,37.5649,"['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+782,37.5764,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'sqft_basement']
+452,37.598,['bathrooms' 'floors' 'waterfront' 'sqft_basement']
+1696,37.5989,"['bedrooms' 'bathrooms' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1234,37.6049,['bathrooms' 'waterfront' 'condition' 'sqft_basement' 'yr_renovated']
+1141,37.6196,['bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_basement']
+1603,37.6248,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'condition' 'sqft_basement']
+1859,37.6525,['bedrooms' 'sqft_lot' 'floors' 'view' 'condition' 'sqft_basement']
+1618,37.6639,"['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'condition'
+ 'sqft_basement']"
+461,37.6691,['bathrooms' 'floors' 'condition' 'sqft_basement']
+791,37.6735,['bedrooms' 'bathrooms' 'floors' 'condition' 'sqft_basement']
+1156,37.678,['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement']
+806,37.7001,['bedrooms' 'bathrooms' 'waterfront' 'condition' 'sqft_basement']
+1937,37.7045,['bedrooms' 'floors' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+1914,37.7132,['bedrooms' 'floors' 'waterfront' 'view' 'condition' 'sqft_basement']
+476,37.714,['bathrooms' 'waterfront' 'condition' 'sqft_basement']
+1625,37.7273,"['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+1148,37.7384,['bathrooms' 'sqft_lot' 'floors' 'sqft_basement' 'yr_renovated']
+1610,37.7387,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'sqft_basement' 'yr_renovated']
+1163,37.7448,['bathrooms' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_renovated']
+991,37.7534,['bedrooms' 'floors' 'view' 'condition' 'sqft_basement']
+813,37.7733,['bedrooms' 'bathrooms' 'waterfront' 'sqft_basement' 'yr_renovated']
+1655,37.7882,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'condition' 'yr_renovated']
+1845,37.7897,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'sqft_basement']
+483,37.7905,['bathrooms' 'waterfront' 'sqft_basement' 'yr_renovated']
+761,37.792,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'sqft_basement']
+798,37.8038,['bedrooms' 'bathrooms' 'floors' 'sqft_basement' 'yr_renovated']
+468,37.8042,['bathrooms' 'floors' 'sqft_basement' 'yr_renovated']
+431,37.8166,['bathrooms' 'sqft_lot' 'waterfront' 'sqft_basement']
+1866,37.8241,['bedrooms' 'sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+755,37.8302,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'sqft_basement']
+2103,37.8313,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'condition' 'yr_renovated']
+247,37.8315,['bedrooms' 'bathrooms' 'waterfront' 'sqft_basement']
+425,37.8344,['bathrooms' 'sqft_lot' 'floors' 'sqft_basement']
+1179,37.8358,['bathrooms' 'sqft_lot' 'condition' 'sqft_basement' 'yr_renovated']
+927,37.8389,['bedrooms' 'sqft_lot' 'floors' 'view' 'sqft_basement']
+1641,37.8488,"['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+82,37.856,['bathrooms' 'waterfront' 'sqft_basement']
+1921,37.8681,['bedrooms' 'floors' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+1193,37.869,['bathrooms' 'floors' 'waterfront' 'condition' 'yr_renovated']
+499,37.8777,['bathrooms' 'condition' 'sqft_basement' 'yr_renovated']
+1620,37.8801,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'condition' 'yr_renovated']
+977,37.8826,['bedrooms' 'floors' 'waterfront' 'view' 'sqft_basement']
+829,37.8889,['bedrooms' 'bathrooms' 'condition' 'sqft_basement' 'yr_renovated']
+241,37.8909,['bedrooms' 'bathrooms' 'floors' 'sqft_basement']
+76,37.8952,['bathrooms' 'floors' 'sqft_basement']
+808,37.914,['bedrooms' 'bathrooms' 'waterfront' 'condition' 'yr_renovated']
+998,37.9158,['bedrooms' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+337,37.9298,['bedrooms' 'floors' 'view' 'sqft_basement']
+1158,37.942,['bathrooms' 'sqft_lot' 'waterfront' 'condition' 'yr_renovated']
+440,37.9565,['bathrooms' 'sqft_lot' 'condition' 'sqft_basement']
+2370,37.9631,['sqft_lot' 'floors' 'view' 'condition' 'sqft_basement' 'yr_built']
+770,37.9637,['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'sqft_basement']
+478,37.979,['bathrooms' 'waterfront' 'condition' 'yr_renovated']
+91,37.9962,['bathrooms' 'condition' 'sqft_basement']
+256,38.003,['bedrooms' 'bathrooms' 'condition' 'sqft_basement']
+2354,38.0228,['sqft_lot' 'floors' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+2376,38.0389,['sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+1403,38.0391,['sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_built']
+447,38.0425,['bathrooms' 'sqft_lot' 'sqft_basement' 'yr_renovated']
+777,38.0454,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_basement' 'yr_renovated']
+1592,38.0498,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'waterfront' 'condition']
+1605,38.0514,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'condition' 'yr_renovated']
+2371,38.072,['sqft_lot' 'floors' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+780,38.0881,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'condition']
+98,38.0899,['bathrooms' 'sqft_basement' 'yr_renovated']
+263,38.0922,['bedrooms' 'bathrooms' 'sqft_basement' 'yr_renovated']
+793,38.0935,['bedrooms' 'bathrooms' 'floors' 'condition' 'yr_renovated']
+759,38.0941,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'condition']
+2348,38.098,['sqft_lot' 'floors' 'waterfront' 'view' 'condition' 'sqft_basement']
+1143,38.1027,['bathrooms' 'sqft_lot' 'floors' 'condition' 'yr_renovated']
+234,38.1059,['bedrooms' 'bathrooms' 'sqft_lot' 'sqft_basement']
+69,38.1075,['bathrooms' 'sqft_lot' 'sqft_basement']
+2406,38.1095,['floors' 'waterfront' 'view' 'condition' 'sqft_basement' 'yr_built']
+2421,38.1179,['floors' 'view' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+1474,38.1249,['floors' 'view' 'condition' 'sqft_basement' 'yr_built']
+1397,38.1253,['sqft_lot' 'floors' 'view' 'condition' 'sqft_basement']
+245,38.1312,['bedrooms' 'bathrooms' 'waterfront' 'condition']
+1130,38.1398,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'condition']
+463,38.1463,['bathrooms' 'floors' 'condition' 'yr_renovated']
+7,38.1479,['bedrooms' 'bathrooms' 'sqft_basement']
+772,38.1666,['bedrooms' 'bathrooms' 'sqft_lot' 'condition' 'yr_renovated']
+429,38.1715,['bathrooms' 'sqft_lot' 'waterfront' 'condition']
+450,38.176,['bathrooms' 'floors' 'waterfront' 'condition']
+2407,38.1884,['floors' 'waterfront' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+2412,38.1926,['floors' 'waterfront' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+1458,38.1933,['floors' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+258,38.2033,['bedrooms' 'bathrooms' 'condition' 'yr_renovated']
+80,38.2055,['bathrooms' 'waterfront' 'condition']
+442,38.2075,['bathrooms' 'sqft_lot' 'condition' 'yr_renovated']
+1475,38.2081,['floors' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+1480,38.2093,['floors' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+667,38.2098,['floors' 'view' 'sqft_basement' 'yr_built']
+1596,38.2168,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'waterfront' 'yr_renovated']
+763,38.2251,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront' 'yr_renovated']
+1452,38.2356,['floors' 'waterfront' 'view' 'condition' 'sqft_basement']
+93,38.2471,['bathrooms' 'condition' 'yr_renovated']
+784,38.256,['bedrooms' 'bathrooms' 'floors' 'waterfront' 'yr_renovated']
+249,38.2616,['bedrooms' 'bathrooms' 'waterfront' 'yr_renovated']
+661,38.2619,['floors' 'view' 'condition' 'sqft_basement']
+2355,38.2756,['sqft_lot' 'floors' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+1383,38.2908,['sqft_lot' 'floors' 'waterfront' 'view' 'sqft_basement']
+1404,38.3031,['sqft_lot' 'floors' 'view' 'sqft_basement' 'yr_renovated']
+433,38.3109,['bathrooms' 'sqft_lot' 'waterfront' 'yr_renovated']
+1134,38.3109,['bathrooms' 'sqft_lot' 'floors' 'waterfront' 'yr_renovated']
+597,38.3195,['sqft_lot' 'floors' 'view' 'sqft_basement']
+1855,38.326,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+230,38.3371,['bedrooms' 'bathrooms' 'sqft_lot' 'waterfront']
+751,38.3415,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'waterfront']
+84,38.3449,['bathrooms' 'waterfront' 'yr_renovated']
+454,38.3473,['bathrooms' 'floors' 'waterfront' 'yr_renovated']
+753,38.3523,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'condition']
+3,38.3741,['bedrooms' 'bathrooms' 'waterfront']
+237,38.3806,['bedrooms' 'bathrooms' 'floors' 'waterfront']
+232,38.3857,['bedrooms' 'bathrooms' 'sqft_lot' 'condition']
+239,38.3913,['bedrooms' 'bathrooms' 'floors' 'condition']
+423,38.4171,['bathrooms' 'sqft_lot' 'floors' 'condition']
+1459,38.4178,['floors' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+5,38.4219,['bedrooms' 'bathrooms' 'condition']
+647,38.4286,['floors' 'waterfront' 'view' 'sqft_basement']
+67,38.442,['bathrooms' 'sqft_lot' 'condition']
+668,38.4426,['floors' 'view' 'sqft_basement' 'yr_renovated']
+65,38.4462,['bathrooms' 'sqft_lot' 'waterfront']
+172,38.4554,['floors' 'view' 'sqft_basement']
+1926,38.4558,['bedrooms' 'floors' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+74,38.4561,['bathrooms' 'floors' 'condition']
+421,38.4575,['bathrooms' 'sqft_lot' 'floors' 'waterfront']
+1932,38.4852,"['bedrooms' 'floors' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+987,38.4853,['bedrooms' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+72,38.4909,['bathrooms' 'floors' 'waterfront']
+757,38.552,['bedrooms' 'bathrooms' 'sqft_lot' 'floors' 'yr_renovated']
+236,38.5549,['bedrooms' 'bathrooms' 'sqft_lot' 'yr_renovated']
+1860,38.58,['bedrooms' 'sqft_lot' 'floors' 'view' 'condition' 'yr_built']
+1871,38.5852,['bedrooms' 'sqft_lot' 'floors' 'condition' 'sqft_basement' 'yr_built']
+243,38.594,['bedrooms' 'bathrooms' 'floors' 'yr_renovated']
+9,38.5946,['bedrooms' 'bathrooms' 'yr_renovated']
+71,38.6147,['bathrooms' 'sqft_lot' 'yr_renovated']
+427,38.6188,['bathrooms' 'sqft_lot' 'floors' 'yr_renovated']
+1849,38.6199,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_basement']
+1867,38.6244,['bedrooms' 'sqft_lot' 'floors' 'view' 'yr_built' 'yr_renovated']
+1877,38.6264,['bedrooms' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built' 'yr_renovated']
+937,38.6265,['bedrooms' 'sqft_lot' 'floors' 'sqft_basement' 'yr_built']
+928,38.6305,['bedrooms' 'sqft_lot' 'floors' 'view' 'yr_built']
+1846,38.6335,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'yr_built']
+78,38.6605,['bathrooms' 'floors' 'yr_renovated']
+1,38.665,['bedrooms' 'bathrooms' 'sqft_lot']
+229,38.6756,['bedrooms' 'bathrooms' 'sqft_lot' 'floors']
+1927,38.6826,"['bedrooms' 'floors' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+2,38.714,['bedrooms' 'bathrooms' 'floors']
+992,38.7342,['bedrooms' 'floors' 'view' 'condition' 'yr_built']
+1938,38.7357,['bedrooms' 'floors' 'view' 'condition' 'yr_built' 'yr_renovated']
+1915,38.7374,['bedrooms' 'floors' 'waterfront' 'view' 'condition' 'yr_built']
+981,38.7388,['bedrooms' 'floors' 'waterfront' 'condition' 'sqft_basement']
+1003,38.7568,['bedrooms' 'floors' 'condition' 'sqft_basement' 'yr_built']
+1856,38.7597,"['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement'
+ 'yr_renovated']"
+1946,38.761,['bedrooms' 'floors' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+64,38.7674,['bathrooms' 'sqft_lot' 'floors']
+999,38.7807,['bedrooms' 'floors' 'view' 'yr_built' 'yr_renovated']
+1922,38.7812,['bedrooms' 'floors' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+922,38.7848,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'sqft_basement']
+338,38.7875,['bedrooms' 'floors' 'view' 'yr_built']
+978,38.7886,['bedrooms' 'floors' 'waterfront' 'view' 'yr_built']
+1861,38.7995,['bedrooms' 'sqft_lot' 'floors' 'view' 'condition' 'yr_renovated']
+347,38.8015,['bedrooms' 'floors' 'sqft_basement' 'yr_built']
+1009,38.8015,['bedrooms' 'floors' 'sqft_basement' 'yr_built' 'yr_renovated']
+1843,38.8435,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'condition']
+925,38.8544,['bedrooms' 'sqft_lot' 'floors' 'view' 'condition']
+1872,38.8708,['bedrooms' 'sqft_lot' 'floors' 'condition' 'sqft_basement' 'yr_renovated']
+988,38.8746,['bedrooms' 'floors' 'waterfront' 'sqft_basement' 'yr_renovated']
+332,38.8983,['bedrooms' 'floors' 'waterfront' 'sqft_basement']
+2360,38.9227,['sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+1916,38.9234,['bedrooms' 'floors' 'waterfront' 'view' 'condition' 'yr_renovated']
+993,38.9314,['bedrooms' 'floors' 'view' 'condition' 'yr_renovated']
+931,38.9328,['bedrooms' 'sqft_lot' 'floors' 'condition' 'sqft_basement']
+975,38.9667,['bedrooms' 'floors' 'waterfront' 'view' 'condition']
+335,38.9773,['bedrooms' 'floors' 'view' 'condition']
+2366,38.9933,"['sqft_lot' 'floors' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+1393,38.9934,['sqft_lot' 'floors' 'waterfront' 'sqft_basement' 'yr_built']
+1004,39.0035,['bedrooms' 'floors' 'condition' 'sqft_basement' 'yr_renovated']
+2361,39.046,"['sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+1847,39.0627,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'view' 'yr_renovated']
+341,39.067,['bedrooms' 'floors' 'condition' 'sqft_basement']
+919,39.0689,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'view']
+929,39.0722,['bedrooms' 'sqft_lot' 'floors' 'view' 'yr_renovated']
+938,39.0775,['bedrooms' 'sqft_lot' 'floors' 'sqft_basement' 'yr_renovated']
+302,39.0789,['bedrooms' 'sqft_lot' 'floors' 'view']
+2416,39.0953,"['floors' 'waterfront' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+305,39.1102,['bedrooms' 'sqft_lot' 'floors' 'sqft_basement']
+1464,39.112,['floors' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+1387,39.127,['sqft_lot' 'floors' 'waterfront' 'condition' 'sqft_basement']
+2380,39.176,['sqft_lot' 'floors' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+979,39.1778,['bedrooms' 'floors' 'waterfront' 'view' 'yr_renovated']
+329,39.1834,['bedrooms' 'floors' 'waterfront' 'view']
+1470,39.1888,['floors' 'waterfront' 'sqft_basement' 'yr_built' 'yr_renovated']
+657,39.1888,['floors' 'waterfront' 'sqft_basement' 'yr_built']
+1409,39.1899,['sqft_lot' 'floors' 'condition' 'sqft_basement' 'yr_built']
+339,39.1909,['bedrooms' 'floors' 'view' 'yr_renovated']
+28,39.1972,['bedrooms' 'floors' 'view']
+348,39.2074,['bedrooms' 'floors' 'sqft_basement' 'yr_renovated']
+1465,39.2088,['floors' 'waterfront' 'condition' 'sqft_basement' 'yr_renovated']
+31,39.2386,['bedrooms' 'floors' 'sqft_basement']
+1415,39.2642,['sqft_lot' 'floors' 'sqft_basement' 'yr_built' 'yr_renovated']
+607,39.2646,['sqft_lot' 'floors' 'sqft_basement' 'yr_built']
+651,39.2814,['floors' 'waterfront' 'condition' 'sqft_basement']
+1394,39.2946,['sqft_lot' 'floors' 'waterfront' 'sqft_basement' 'yr_renovated']
+592,39.3187,['sqft_lot' 'floors' 'waterfront' 'sqft_basement']
+1410,39.3289,['sqft_lot' 'floors' 'condition' 'sqft_basement' 'yr_renovated']
+1484,39.3764,['floors' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+673,39.3966,['floors' 'condition' 'sqft_basement' 'yr_built']
+601,39.4127,['sqft_lot' 'floors' 'condition' 'sqft_basement']
+658,39.4594,['floors' 'waterfront' 'sqft_basement' 'yr_renovated']
+679,39.476,['floors' 'sqft_basement' 'yr_built' 'yr_renovated']
+182,39.4764,['floors' 'sqft_basement' 'yr_built']
+167,39.4803,['floors' 'waterfront' 'sqft_basement']
+674,39.5065,['floors' 'condition' 'sqft_basement' 'yr_renovated']
+176,39.5814,['floors' 'condition' 'sqft_basement']
+608,39.5934,['sqft_lot' 'floors' 'sqft_basement' 'yr_renovated']
+140,39.6195,['sqft_lot' 'floors' 'sqft_basement']
+183,39.7644,['floors' 'sqft_basement' 'yr_renovated']
+1886,40.0181,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+963,40.0435,['bedrooms' 'sqft_lot' 'view' 'sqft_basement' 'yr_renovated']
+1902,40.046,['bedrooms' 'sqft_lot' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+1907,40.0853,['bedrooms' 'sqft_lot' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+942,40.0863,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_basement']
+1879,40.0867,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'condition' 'sqft_basement']
+1952,40.1048,['bedrooms' 'waterfront' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+1885,40.1053,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1018,40.1054,['bedrooms' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+956,40.1062,['bedrooms' 'sqft_lot' 'view' 'condition' 'sqft_basement']
+316,40.1064,['bedrooms' 'sqft_lot' 'view' 'sqft_basement']
+373,40.1313,['bedrooms' 'view' 'sqft_basement' 'yr_renovated']
+1901,40.1326,['bedrooms' 'sqft_lot' 'view' 'condition' 'sqft_basement' 'yr_built']
+1034,40.1329,['bedrooms' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+1957,40.1345,['bedrooms' 'waterfront' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+962,40.1362,['bedrooms' 'sqft_lot' 'view' 'sqft_basement' 'yr_built']
+1850,40.1593,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'condition' 'yr_built']
+1039,40.1653,['bedrooms' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+1966,40.168,['bedrooms' 'view' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+1398,40.1709,['sqft_lot' 'floors' 'view' 'condition' 'yr_built']
+352,40.1762,['bedrooms' 'waterfront' 'view' 'sqft_basement']
+1011,40.1764,['bedrooms' 'waterfront' 'view' 'condition' 'sqft_basement']
+2372,40.1793,['sqft_lot' 'floors' 'view' 'condition' 'yr_built' 'yr_renovated']
+2349,40.1833,['sqft_lot' 'floors' 'waterfront' 'view' 'condition' 'yr_built']
+1857,40.1861,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+1017,40.1869,['bedrooms' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+1951,40.1882,['bedrooms' 'waterfront' 'view' 'condition' 'sqft_basement' 'yr_built']
+923,40.1982,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'yr_built']
+366,40.1985,['bedrooms' 'view' 'condition' 'sqft_basement']
+42,40.1988,['bedrooms' 'view' 'sqft_basement']
+1033,40.2176,['bedrooms' 'view' 'condition' 'sqft_basement' 'yr_built']
+372,40.2209,['bedrooms' 'view' 'sqft_basement' 'yr_built']
+1399,40.2523,['sqft_lot' 'floors' 'view' 'condition' 'yr_renovated']
+2350,40.2533,['sqft_lot' 'floors' 'waterfront' 'view' 'condition' 'yr_renovated']
+595,40.2778,['sqft_lot' 'floors' 'view' 'condition']
+1381,40.2801,['sqft_lot' 'floors' 'waterfront' 'view' 'condition']
+982,40.3684,['bedrooms' 'floors' 'waterfront' 'condition' 'yr_built']
+1881,40.3704,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'condition' 'yr_renovated']
+662,40.3717,['floors' 'view' 'condition' 'yr_built']
+944,40.3758,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'yr_renovated']
+1476,40.3778,['floors' 'view' 'condition' 'yr_built' 'yr_renovated']
+1928,40.3779,['bedrooms' 'floors' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+1887,40.379,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+958,40.381,['bedrooms' 'sqft_lot' 'view' 'condition' 'yr_renovated']
+1453,40.3812,['floors' 'waterfront' 'view' 'condition' 'yr_built']
+2408,40.3842,['floors' 'waterfront' 'view' 'condition' 'yr_built' 'yr_renovated']
+318,40.3899,['bedrooms' 'sqft_lot' 'view' 'yr_renovated']
+964,40.3942,['bedrooms' 'sqft_lot' 'view' 'yr_built' 'yr_renovated']
+989,40.3953,['bedrooms' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+1903,40.4031,['bedrooms' 'sqft_lot' 'view' 'condition' 'yr_built' 'yr_renovated']
+1405,40.4039,['sqft_lot' 'floors' 'view' 'yr_built' 'yr_renovated']
+333,40.4039,['bedrooms' 'floors' 'waterfront' 'yr_built']
+2356,40.4105,['sqft_lot' 'floors' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+598,40.4219,['sqft_lot' 'floors' 'view' 'yr_built']
+1384,40.4279,['sqft_lot' 'floors' 'waterfront' 'view' 'yr_built']
+1454,40.4286,['floors' 'waterfront' 'view' 'condition' 'yr_renovated']
+663,40.4296,['floors' 'view' 'condition' 'yr_renovated']
+940,40.4317,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'condition']
+1880,40.4347,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'condition' 'yr_built']
+308,40.4398,['bedrooms' 'sqft_lot' 'waterfront' 'view']
+314,40.4419,['bedrooms' 'sqft_lot' 'view' 'condition']
+943,40.4437,['bedrooms' 'sqft_lot' 'waterfront' 'view' 'yr_built']
+1013,40.4453,['bedrooms' 'waterfront' 'view' 'condition' 'yr_renovated']
+957,40.4491,['bedrooms' 'sqft_lot' 'view' 'condition' 'yr_built']
+354,40.4506,['bedrooms' 'waterfront' 'view' 'yr_renovated']
+645,40.4517,['floors' 'waterfront' 'view' 'condition']
+170,40.4518,['floors' 'view' 'condition']
+21,40.4521,['bedrooms' 'sqft_lot' 'view']
+932,40.4529,['bedrooms' 'sqft_lot' 'floors' 'condition' 'yr_built']
+1019,40.4553,['bedrooms' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+317,40.4576,['bedrooms' 'sqft_lot' 'view' 'yr_built']
+368,40.4581,['bedrooms' 'view' 'condition' 'yr_renovated']
+44,40.4665,['bedrooms' 'view' 'yr_renovated']
+1953,40.4672,['bedrooms' 'waterfront' 'view' 'condition' 'yr_built' 'yr_renovated']
+1873,40.4685,['bedrooms' 'sqft_lot' 'floors' 'condition' 'yr_built' 'yr_renovated']
+374,40.4726,['bedrooms' 'view' 'yr_built' 'yr_renovated']
+1035,40.4805,['bedrooms' 'view' 'condition' 'yr_built' 'yr_renovated']
+1851,40.4856,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'condition' 'yr_renovated']
+939,40.5005,['bedrooms' 'sqft_lot' 'floors' 'yr_built' 'yr_renovated']
+350,40.5088,['bedrooms' 'waterfront' 'view' 'condition']
+1012,40.5104,['bedrooms' 'waterfront' 'view' 'condition' 'yr_built']
+306,40.512,['bedrooms' 'sqft_lot' 'floors' 'yr_built']
+40,40.5189,['bedrooms' 'view' 'condition']
+34,40.5233,['bedrooms' 'waterfront' 'view']
+353,40.5242,['bedrooms' 'waterfront' 'view' 'yr_built']
+367,40.5262,['bedrooms' 'view' 'condition' 'yr_built']
+920,40.5296,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'condition']
+43,40.538,['bedrooms' 'view' 'yr_built']
+669,40.617,['floors' 'view' 'yr_built' 'yr_renovated']
+1460,40.6236,['floors' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+173,40.639,['floors' 'view' 'yr_built']
+648,40.644,['floors' 'waterfront' 'view' 'yr_built']
+983,40.6552,['bedrooms' 'floors' 'waterfront' 'condition' 'yr_renovated']
+342,40.6821,['bedrooms' 'floors' 'condition' 'yr_built']
+1005,40.6942,['bedrooms' 'floors' 'condition' 'yr_built' 'yr_renovated']
+589,40.6947,['sqft_lot' 'floors' 'waterfront' 'view']
+1385,40.6949,['sqft_lot' 'floors' 'waterfront' 'view' 'yr_renovated']
+137,40.6979,['sqft_lot' 'floors' 'view']
+599,40.6984,['sqft_lot' 'floors' 'view' 'yr_renovated']
+330,40.7022,['bedrooms' 'floors' 'waterfront' 'condition']
+349,40.7271,['bedrooms' 'floors' 'yr_built' 'yr_renovated']
+32,40.7335,['bedrooms' 'floors' 'yr_built']
+924,40.7887,['bedrooms' 'sqft_lot' 'floors' 'waterfront' 'yr_renovated']
+301,40.7962,['bedrooms' 'sqft_lot' 'floors' 'waterfront']
+933,40.8273,['bedrooms' 'sqft_lot' 'floors' 'condition' 'yr_renovated']
+649,40.8671,['floors' 'waterfront' 'view' 'yr_renovated']
+164,40.8673,['floors' 'waterfront' 'view']
+303,40.8716,['bedrooms' 'sqft_lot' 'floors' 'condition']
+174,40.8721,['floors' 'view' 'yr_renovated']
+334,40.9406,['bedrooms' 'floors' 'waterfront' 'yr_renovated']
+27,40.9449,['bedrooms' 'floors' 'waterfront']
+343,41.0095,['bedrooms' 'floors' 'condition' 'yr_renovated']
+29,41.0645,['bedrooms' 'floors' 'condition']
+307,41.1545,['bedrooms' 'sqft_lot' 'floors' 'yr_renovated']
+19,41.1592,['bedrooms' 'sqft_lot' 'floors']
+1892,41.2127,"['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement'
+ 'yr_renovated']"
+953,41.2171,['bedrooms' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_renovated']
+1897,41.2361,"['bedrooms' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+311,41.2575,['bedrooms' 'sqft_lot' 'waterfront' 'sqft_basement']
+946,41.2598,['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement']
+952,41.2719,['bedrooms' 'sqft_lot' 'waterfront' 'sqft_basement' 'yr_built']
+1891,41.29,['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+1024,41.3138,['bedrooms' 'waterfront' 'condition' 'sqft_basement' 'yr_renovated']
+363,41.3187,['bedrooms' 'waterfront' 'sqft_basement' 'yr_renovated']
+33,41.3195,['bedrooms' 'floors' 'yr_renovated']
+1029,41.329,['bedrooms' 'waterfront' 'sqft_basement' 'yr_built' 'yr_renovated']
+1961,41.3422,"['bedrooms' 'waterfront' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+37,41.3657,['bedrooms' 'waterfront' 'sqft_basement']
+356,41.3672,['bedrooms' 'waterfront' 'condition' 'sqft_basement']
+362,41.3703,['bedrooms' 'waterfront' 'sqft_basement' 'yr_built']
+1023,41.3877,['bedrooms' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+2391,41.4232,['sqft_lot' 'waterfront' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+2400,41.4241,['sqft_lot' 'view' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+1445,41.427,['sqft_lot' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+1440,41.4567,['sqft_lot' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+2386,41.4618,['sqft_lot' 'waterfront' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+633,41.4622,['sqft_lot' 'view' 'sqft_basement' 'yr_renovated']
+2385,41.4649,['sqft_lot' 'waterfront' 'view' 'condition' 'sqft_basement' 'yr_built']
+1439,41.4651,['sqft_lot' 'view' 'condition' 'sqft_basement' 'yr_built']
+1424,41.471,['sqft_lot' 'waterfront' 'view' 'sqft_basement' 'yr_renovated']
+1423,41.4776,['sqft_lot' 'waterfront' 'view' 'sqft_basement' 'yr_built']
+632,41.4798,['sqft_lot' 'view' 'sqft_basement' 'yr_built']
+969,41.5559,['bedrooms' 'sqft_lot' 'condition' 'sqft_basement' 'yr_renovated']
+327,41.5608,['bedrooms' 'sqft_lot' 'sqft_basement' 'yr_renovated']
+1495,41.5615,['waterfront' 'view' 'sqft_basement' 'yr_built' 'yr_renovated']
+2427,41.5615,['waterfront' 'view' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+1504,41.5665,['view' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+709,41.5688,['view' 'sqft_basement' 'yr_built' 'yr_renovated']
+974,41.5809,['bedrooms' 'sqft_lot' 'sqft_basement' 'yr_built' 'yr_renovated']
+1911,41.5868,"['bedrooms' 'sqft_lot' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+320,41.5989,['bedrooms' 'sqft_lot' 'condition' 'sqft_basement']
+24,41.5999,['bedrooms' 'sqft_lot' 'sqft_basement']
+151,41.6071,['sqft_lot' 'view' 'sqft_basement']
+626,41.6078,['sqft_lot' 'view' 'condition' 'sqft_basement']
+1489,41.6083,['waterfront' 'view' 'condition' 'sqft_basement' 'yr_built']
+703,41.6113,['view' 'condition' 'sqft_basement' 'yr_built']
+326,41.6136,['bedrooms' 'sqft_lot' 'sqft_basement' 'yr_built']
+704,41.6156,['view' 'condition' 'sqft_basement' 'yr_renovated']
+1490,41.6168,['waterfront' 'view' 'condition' 'sqft_basement' 'yr_renovated']
+612,41.6191,['sqft_lot' 'waterfront' 'view' 'sqft_basement']
+687,41.6195,['waterfront' 'view' 'sqft_basement' 'yr_built']
+1417,41.6205,['sqft_lot' 'waterfront' 'view' 'condition' 'sqft_basement']
+208,41.6235,['view' 'sqft_basement' 'yr_renovated']
+207,41.6247,['view' 'sqft_basement' 'yr_built']
+968,41.6263,['bedrooms' 'sqft_lot' 'condition' 'sqft_basement' 'yr_built']
+688,41.6283,['waterfront' 'view' 'sqft_basement' 'yr_renovated']
+379,41.6633,['bedrooms' 'condition' 'sqft_basement' 'yr_renovated']
+53,41.6701,['bedrooms' 'sqft_basement' 'yr_renovated']
+384,41.683,['bedrooms' 'sqft_basement' 'yr_built' 'yr_renovated']
+1043,41.6878,['bedrooms' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+46,41.7163,['bedrooms' 'condition' 'sqft_basement']
+52,41.7188,['bedrooms' 'sqft_basement' 'yr_built']
+378,41.7326,['bedrooms' 'condition' 'sqft_basement' 'yr_built']
+201,41.7746,['view' 'condition' 'sqft_basement']
+187,41.7872,['waterfront' 'view' 'sqft_basement']
+681,41.7877,['waterfront' 'view' 'condition' 'sqft_basement']
+954,41.9792,['bedrooms' 'sqft_lot' 'waterfront' 'yr_built' 'yr_renovated']
+948,41.9919,['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'yr_renovated']
+1893,41.9996,['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+313,42.0035,['bedrooms' 'sqft_lot' 'waterfront' 'yr_renovated']
+309,42.0266,['bedrooms' 'sqft_lot' 'waterfront' 'condition']
+947,42.0339,['bedrooms' 'sqft_lot' 'waterfront' 'condition' 'yr_built']
+312,42.0498,['bedrooms' 'sqft_lot' 'waterfront' 'yr_built']
+20,42.0563,['bedrooms' 'sqft_lot' 'waterfront']
+1388,42.0613,['sqft_lot' 'floors' 'waterfront' 'condition' 'yr_built']
+2362,42.0666,['sqft_lot' 'floors' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+364,42.11,['bedrooms' 'waterfront' 'yr_built' 'yr_renovated']
+358,42.1179,['bedrooms' 'waterfront' 'condition' 'yr_renovated']
+1025,42.1275,['bedrooms' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+39,42.1288,['bedrooms' 'waterfront' 'yr_renovated']
+35,42.1569,['bedrooms' 'waterfront' 'condition']
+357,42.1616,['bedrooms' 'waterfront' 'condition' 'yr_built']
+38,42.1817,['bedrooms' 'waterfront' 'yr_built']
+1389,42.1906,['sqft_lot' 'floors' 'waterfront' 'condition' 'yr_renovated']
+590,42.2453,['sqft_lot' 'floors' 'waterfront' 'condition']
+1466,42.3172,['floors' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+652,42.3179,['floors' 'waterfront' 'condition' 'yr_built']
+328,42.3219,['bedrooms' 'sqft_lot' 'yr_built' 'yr_renovated']
+970,42.3324,['bedrooms' 'sqft_lot' 'condition' 'yr_built' 'yr_renovated']
+322,42.3333,['bedrooms' 'sqft_lot' 'condition' 'yr_renovated']
+602,42.342,['sqft_lot' 'floors' 'condition' 'yr_built']
+1411,42.3435,['sqft_lot' 'floors' 'condition' 'yr_built' 'yr_renovated']
+26,42.3585,['bedrooms' 'sqft_lot' 'yr_renovated']
+22,42.361,['bedrooms' 'sqft_lot' 'condition']
+1395,42.364,['sqft_lot' 'floors' 'waterfront' 'yr_built' 'yr_renovated']
+1441,42.3652,['sqft_lot' 'view' 'condition' 'yr_built' 'yr_renovated']
+321,42.3661,['bedrooms' 'sqft_lot' 'condition' 'yr_built']
+628,42.369,['sqft_lot' 'view' 'condition' 'yr_renovated']
+593,42.3824,['sqft_lot' 'floors' 'waterfront' 'yr_built']
+2387,42.3878,['sqft_lot' 'waterfront' 'view' 'condition' 'yr_built' 'yr_renovated']
+25,42.3923,['bedrooms' 'sqft_lot' 'yr_built']
+1419,42.3956,['sqft_lot' 'waterfront' 'view' 'condition' 'yr_renovated']
+627,42.4,['sqft_lot' 'view' 'condition' 'yr_built']
+153,42.4058,['sqft_lot' 'view' 'yr_renovated']
+653,42.4109,['floors' 'waterfront' 'condition' 'yr_renovated']
+1418,42.4213,['sqft_lot' 'waterfront' 'view' 'condition' 'yr_built']
+634,42.431,['sqft_lot' 'view' 'yr_built' 'yr_renovated']
+614,42.4332,['sqft_lot' 'waterfront' 'view' 'yr_renovated']
+165,42.4553,['floors' 'waterfront' 'condition']
+1425,42.4578,['sqft_lot' 'waterfront' 'view' 'yr_built' 'yr_renovated']
+54,42.4645,['bedrooms' 'yr_built' 'yr_renovated']
+48,42.4677,['bedrooms' 'condition' 'yr_renovated']
+380,42.4702,['bedrooms' 'condition' 'yr_built' 'yr_renovated']
+149,42.4715,['sqft_lot' 'view' 'condition']
+603,42.4888,['sqft_lot' 'floors' 'condition' 'yr_renovated']
+610,42.4949,['sqft_lot' 'waterfront' 'view' 'condition']
+47,42.5049,['bedrooms' 'condition' 'yr_built']
+705,42.5059,['view' 'condition' 'yr_built' 'yr_renovated']
+152,42.5202,['sqft_lot' 'view' 'yr_built']
+203,42.5236,['view' 'condition' 'yr_renovated']
+1491,42.5254,['waterfront' 'view' 'condition' 'yr_built' 'yr_renovated']
+202,42.5384,['view' 'condition' 'yr_built']
+613,42.5417,['sqft_lot' 'waterfront' 'view' 'yr_built']
+683,42.5486,['waterfront' 'view' 'condition' 'yr_renovated']
+138,42.5499,['sqft_lot' 'floors' 'condition']
+682,42.5552,['waterfront' 'view' 'condition' 'yr_built']
+143,42.5642,['sqft_lot' 'waterfront' 'view']
+209,42.5814,['view' 'yr_built' 'yr_renovated']
+189,42.5884,['waterfront' 'view' 'yr_renovated']
+689,42.6072,['waterfront' 'view' 'yr_built' 'yr_renovated']
+177,42.6166,['floors' 'condition' 'yr_built']
+675,42.6174,['floors' 'condition' 'yr_built' 'yr_renovated']
+659,42.6456,['floors' 'waterfront' 'yr_built' 'yr_renovated']
+185,42.6583,['waterfront' 'view' 'condition']
+609,42.6603,['sqft_lot' 'floors' 'yr_built' 'yr_renovated']
+168,42.6619,['floors' 'waterfront' 'yr_built']
+141,42.6794,['sqft_lot' 'floors' 'yr_built']
+188,42.6885,['waterfront' 'view' 'yr_built']
+178,42.722,['floors' 'condition' 'yr_renovated']
+136,42.7586,['sqft_lot' 'floors' 'waterfront']
+1435,42.7607,['sqft_lot' 'waterfront' 'sqft_basement' 'yr_built' 'yr_renovated']
+594,42.763,['sqft_lot' 'floors' 'waterfront' 'yr_renovated']
+2395,42.7723,"['sqft_lot' 'waterfront' 'condition' 'sqft_basement' 'yr_built'
+ 'yr_renovated']"
+622,42.8058,['sqft_lot' 'waterfront' 'sqft_basement' 'yr_built']
+1429,42.8144,['sqft_lot' 'waterfront' 'condition' 'sqft_basement' 'yr_built']
+1430,42.8303,['sqft_lot' 'waterfront' 'condition' 'sqft_basement' 'yr_renovated']
+623,42.8592,['sqft_lot' 'waterfront' 'sqft_basement' 'yr_renovated']
+699,42.9246,['waterfront' 'sqft_basement' 'yr_built' 'yr_renovated']
+1499,42.9332,['waterfront' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+184,42.9623,['floors' 'yr_built' 'yr_renovated']
+197,42.9659,['waterfront' 'sqft_basement' 'yr_built']
+169,42.9726,['floors' 'waterfront' 'yr_renovated']
+693,42.9773,['waterfront' 'condition' 'sqft_basement' 'yr_built']
+616,42.98,['sqft_lot' 'waterfront' 'condition' 'sqft_basement']
+146,42.9856,['sqft_lot' 'waterfront' 'sqft_basement']
+694,43.0295,['waterfront' 'condition' 'sqft_basement' 'yr_renovated']
+198,43.0611,['waterfront' 'sqft_basement' 'yr_renovated']
+644,43.0834,['sqft_lot' 'sqft_basement' 'yr_built' 'yr_renovated']
+1449,43.0903,['sqft_lot' 'condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+142,43.1025,['sqft_lot' 'floors' 'yr_renovated']
+161,43.1252,['sqft_lot' 'sqft_basement' 'yr_built']
+638,43.1315,['sqft_lot' 'condition' 'sqft_basement' 'yr_built']
+639,43.157,['sqft_lot' 'condition' 'sqft_basement' 'yr_renovated']
+191,43.18,['waterfront' 'condition' 'sqft_basement']
+162,43.1934,['sqft_lot' 'sqft_basement' 'yr_renovated']
+219,43.2569,['sqft_basement' 'yr_built' 'yr_renovated']
+713,43.2635,['condition' 'sqft_basement' 'yr_built' 'yr_renovated']
+213,43.3041,['condition' 'sqft_basement' 'yr_built']
+155,43.3051,['sqft_lot' 'condition' 'sqft_basement']
+214,43.3685,['condition' 'sqft_basement' 'yr_renovated']
+618,44.4285,['sqft_lot' 'waterfront' 'condition' 'yr_renovated']
+1431,44.4305,['sqft_lot' 'waterfront' 'condition' 'yr_built' 'yr_renovated']
+617,44.4432,['sqft_lot' 'waterfront' 'condition' 'yr_built']
+144,44.4914,['sqft_lot' 'waterfront' 'condition']
+148,44.5011,['sqft_lot' 'waterfront' 'yr_renovated']
+624,44.5177,['sqft_lot' 'waterfront' 'yr_built' 'yr_renovated']
+147,44.5835,['sqft_lot' 'waterfront' 'yr_built']
+695,44.6239,['waterfront' 'condition' 'yr_built' 'yr_renovated']
+192,44.6337,['waterfront' 'condition' 'yr_built']
+193,44.6419,['waterfront' 'condition' 'yr_renovated']
+199,44.7123,['waterfront' 'yr_built' 'yr_renovated']
+640,44.7599,['sqft_lot' 'condition' 'yr_built' 'yr_renovated']
+157,44.7635,['sqft_lot' 'condition' 'yr_renovated']
+156,44.7725,['sqft_lot' 'condition' 'yr_built']
+163,44.8531,['sqft_lot' 'yr_built' 'yr_renovated']
+215,44.9681,['condition' 'yr_built' 'yr_renovated']
